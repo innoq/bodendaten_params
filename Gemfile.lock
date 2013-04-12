@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/innoq/iqvoc
+  remote: git://github.com/innoq/iqvoc.git
   revision: 8f2b84854c9e96ca257826c124b0e7d35c178897
   branch: concept_scheme
   specs:
@@ -76,6 +76,7 @@ GEM
     mime-types (1.22)
     multi_json (1.7.2)
     mysql2 (0.3.11)
+    pg (0.15.1)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -133,6 +134,7 @@ PLATFORMS
 DEPENDENCIES
   iqvoc!
   mysql2
+  pg
   rails (= 3.2.13)
   sass-rails (~> 3.2.3)
   uglifier (>= 1.0.3)

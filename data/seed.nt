@@ -1,9 +1,11 @@
 <http://boden-chem.iqvoc.net/_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acenaphthen"@de .
 <http://boden-chem.iqvoc.net/_1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acenaphthene"@en .
+<http://boden-chem.iqvoc.net/_1> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acenaphthylen"@de .
 <http://boden-chem.iqvoc.net/_2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acenaphthylene"@en .
+<http://boden-chem.iqvoc.net/_2> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aldrin"@de .
 <http://boden-chem.iqvoc.net/_3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aldrin"@en .
@@ -18,22 +20,28 @@
 <http://boden-chem.iqvoc.net/_5> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/_63> .
 <http://boden-chem.iqvoc.net/_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aromatische Alkohole"@de .
+<http://boden-chem.iqvoc.net/_6> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aromatische Amine"@de .
+<http://boden-chem.iqvoc.net/_7> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atrazin"@de .
 <http://boden-chem.iqvoc.net/_8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atrazine"@en .
+<http://boden-chem.iqvoc.net/_8> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bisphenol A"@de .
+<http://boden-chem.iqvoc.net/_9> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_10> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benzo[a]pyren"@de .
 <http://boden-chem.iqvoc.net/_10> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/_63> .
 <http://boden-chem.iqvoc.net/_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_14> <http://www.w3.org/2004/02/skos/core#prefLabel> "CAL-Extrakt"@de .
+<http://boden-chem.iqvoc.net/_14> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chlorid"@de .
 <http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chloride"@en .
 <http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#altLabel> "Cl"@de .
+<http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_17> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrysen"@de .
 <http://boden-chem.iqvoc.net/_17> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrysene"@en .
@@ -49,6 +57,7 @@
 <http://boden-chem.iqvoc.net/_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_21> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endrin"@de .
 <http://boden-chem.iqvoc.net/_21> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endrin"@en .
+<http://boden-chem.iqvoc.net/_21> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_22> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flouranthen"@de .
 <http://boden-chem.iqvoc.net/_22> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flouranthe"@en .
@@ -56,30 +65,38 @@
 <http://boden-chem.iqvoc.net/_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_23> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluoren"@de .
 <http://boden-chem.iqvoc.net/_23> <http://www.w3.org/2004/02/skos/core#prefLabel> "flourines"@en .
+<http://boden-chem.iqvoc.net/_23> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelöster organischer Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dissolved Organic Carbon"@en .
 <http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#altLabel> "DOC"@de .
+<http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtkohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Carbon"@en .
 <http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#altLabel> "TC"@de .
+<http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_26> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtkohlenstoffgehalt"@de .
+<http://boden-chem.iqvoc.net/_26> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_27> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organischer Kohlenstoff"@de .
+<http://boden-chem.iqvoc.net/_27> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesamter organischer Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Organic Carbon"@en .
 <http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#altLabel> "TOC"@de .
+<http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesamter organischer Stickstoff"@de .
 <http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organic Nitrogen"@en .
 <http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#altLabel> "TON"@de .
+<http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtstickstoff"@de .
 <http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Nitrogen"@en .
 <http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#altLabel> "TN"@de .
+<http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_31> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heptachlor"@de .
 <http://boden-chem.iqvoc.net/_31> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heptachlor"@en .
@@ -94,12 +111,15 @@
 <http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon"@en .
 <http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#altLabel> "C"@de .
+<http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_34> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoffbilanz"@de .
 <http://boden-chem.iqvoc.net/_34> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon balance"@en .
+<http://boden-chem.iqvoc.net/_34> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_38> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molybdän"@de .
 <http://boden-chem.iqvoc.net/_38> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molybdenum"@en .
+<http://boden-chem.iqvoc.net/_38> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_42> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naphthalin"@de .
 <http://boden-chem.iqvoc.net/_42> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naphthalene"@en .
@@ -107,9 +127,11 @@
 <http://boden-chem.iqvoc.net/_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_43> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitroaromaten"@de .
 <http://boden-chem.iqvoc.net/_43> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitroaromatic"@en .
+<http://boden-chem.iqvoc.net/_43> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_44> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nonylphenol"@de .
 <http://boden-chem.iqvoc.net/_44> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nonylphenol"@en .
+<http://boden-chem.iqvoc.net/_44> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_46> <http://www.w3.org/2004/02/skos/core#prefLabel> "Octachlorstyrol"@de .
 <http://boden-chem.iqvoc.net/_46> <http://www.w3.org/2004/02/skos/core#prefLabel> "Octachlorstyrene"@en .
@@ -119,23 +141,29 @@
 <http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#prefLabel> "organische Bodensubstanz"@de .
 <http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil organic mattter"@en .
 <http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#altLabel> "SOM"@de .
+<http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#prefLabel> "organische Spurenstoffe"@de .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic trace substances"@en .
+<http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#prefLabel> "organischer Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic Carbon"@en .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#altLabel> "OC"@de .
+<http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_51> <http://www.w3.org/2004/02/skos/core#prefLabel> "organischer Schadstoffgehalt"@de .
 <http://boden-chem.iqvoc.net/_51> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic pollutant content"@en .
+<http://boden-chem.iqvoc.net/_51> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#prefLabel> "organischer Stickstoff"@de .
 <http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organic Nitrogen"@en .
 <http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#altLabel> "ON"@de .
+<http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organochlorverbindungen"@de .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organochloride compounds"@en .
+<http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_55> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pentachlorbenzol"@de .
 <http://boden-chem.iqvoc.net/_55> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pentachlorobenzene"@en .
@@ -147,9 +175,11 @@
 <http://boden-chem.iqvoc.net/_57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_57> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phenole"@de .
 <http://boden-chem.iqvoc.net/_57> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phenols"@en .
+<http://boden-chem.iqvoc.net/_57> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_58> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phthalate"@de .
 <http://boden-chem.iqvoc.net/_58> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phthalate"@en .
+<http://boden-chem.iqvoc.net/_58> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_59> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorierte Biphenyle"@de .
 <http://boden-chem.iqvoc.net/_59> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorinated biphenyl"@en .
@@ -159,23 +189,29 @@
 <http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorierte dibenzodioxins"@de .
 <http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorinated dibenzodioxins"@en .
 <http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#altLabel> "PCDD"@de .
+<http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorierte dibenzofurane"@de .
 <http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorinated dibenzofurane"@en .
 <http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#altLabel> "PCDF"@de .
+<http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polycyclische aromatische Kohlenwasserstoffe"@de .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polycyclic Aromatic Hydrocarbons"@en .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#altLabel> "PAK"@de .
+<http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#prefLabel> "Propazin"@de .
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#prefLabel> "Propazine"@en .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pyren"@de .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pyrene"@en .
+<http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_67> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triazine"@de .
 <http://boden-chem.iqvoc.net/_67> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triazine"@en .
+<http://boden-chem.iqvoc.net/_67> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_68> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triphenylen"@de .
 <http://boden-chem.iqvoc.net/_68> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triphenylen"@en .
@@ -198,6 +234,7 @@
 <http://boden-chem.iqvoc.net/_73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_73> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrysen"@de .
 <http://boden-chem.iqvoc.net/_73> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrysene"@en .
+<http://boden-chem.iqvoc.net/_73> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_74> <http://www.w3.org/2004/02/skos/core#prefLabel> "alpha-1,2,3,4,5,6-Hexachlorcyclohexan"@de .
 <http://boden-chem.iqvoc.net/_74> <http://www.w3.org/2004/02/skos/core#altLabel> "_-HCH"@de .
