@@ -143,6 +143,7 @@
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#prefLabel> "organische Spurenstoffe"@de .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic trace substances"@en .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_49> .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#prefLabel> "organischer Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic Carbon"@en .
@@ -201,6 +202,23 @@
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#prefLabel> "Propazin"@de .
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#prefLabel> "Propazine"@en .
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_4> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_5> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_10> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_17> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_18> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_22> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_42> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_56> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_68> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_79> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_80> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_81> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_82> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_83> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_84> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_85> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_86> .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pyren"@de .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pyrene"@en .
