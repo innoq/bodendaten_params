@@ -1,6 +1,6 @@
 Iqvoc.config do |config|
   config.register_settings({
-    "title" => "Boden Chem",
+    "title" => "Untersuchungsparameter Boden",
     "languages.pref_labeling" => ["de", "en"],
     "languages.further_labelings.Labeling::SKOS::AltLabel" => ["de", "en"],
     "note_languages" => ["de"]
