@@ -1,11 +1,405 @@
+<http://boden-chem.iqvoc.net/5af63ff0-881a-0130-6045-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af63ff0-881a-0130-6045-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aluminium"@de .
+<http://boden-chem.iqvoc.net/5af63ff0-881a-0130-6045-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aluminum, Aluminium"@en .
+<http://boden-chem.iqvoc.net/5af63ff0-881a-0130-6045-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Al"@de .
+<http://boden-chem.iqvoc.net/5af63ff0-881a-0130-6045-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af670c0-881a-0130-6046-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af670c0-881a-0130-6046-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ammonium"@de .
+<http://boden-chem.iqvoc.net/5af670c0-881a-0130-6046-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ammonium"@en .
+<http://boden-chem.iqvoc.net/5af670c0-881a-0130-6046-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "NH4"@de .
+<http://boden-chem.iqvoc.net/5af670c0-881a-0130-6046-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af67ff0-881a-0130-6047-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af67ff0-881a-0130-6047-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganischer Kohlenstoff"@de .
+<http://boden-chem.iqvoc.net/5af67ff0-881a-0130-6047-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Inorganic Carbon"@en .
+<http://boden-chem.iqvoc.net/5af67ff0-881a-0130-6047-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "IC"@de .
+<http://boden-chem.iqvoc.net/5af67ff0-881a-0130-6047-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af68e70-881a-0130-6048-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af68e70-881a-0130-6048-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganischer Stickstoff"@de .
+<http://boden-chem.iqvoc.net/5af68e70-881a-0130-6048-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totoal Organic Nitrogen"@en .
+<http://boden-chem.iqvoc.net/5af68e70-881a-0130-6048-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "IN"@de .
+<http://boden-chem.iqvoc.net/5af68e70-881a-0130-6048-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af69c90-881a-0130-6049-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af69c90-881a-0130-6049-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antimon"@de .
+<http://boden-chem.iqvoc.net/5af69c90-881a-0130-6049-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antimony"@en .
+<http://boden-chem.iqvoc.net/5af69c90-881a-0130-6049-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Sb"@de .
+<http://boden-chem.iqvoc.net/5af69c90-881a-0130-6049-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af6abb0-881a-0130-604a-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af6abb0-881a-0130-604a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arsen"@de .
+<http://boden-chem.iqvoc.net/5af6abb0-881a-0130-604a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arsenic"@en .
+<http://boden-chem.iqvoc.net/5af6abb0-881a-0130-604a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "As"@de .
+<http://boden-chem.iqvoc.net/5af6abb0-881a-0130-604a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af6b9f0-881a-0130-604b-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af6b9f0-881a-0130-604b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barium"@de .
+<http://boden-chem.iqvoc.net/5af6b9f0-881a-0130-604b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barium"@en .
+<http://boden-chem.iqvoc.net/5af6b9f0-881a-0130-604b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Ba"@de .
+<http://boden-chem.iqvoc.net/5af6b9f0-881a-0130-604b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af6c8e0-881a-0130-604c-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af6c8e0-881a-0130-604c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blei"@de .
+<http://boden-chem.iqvoc.net/5af6c8e0-881a-0130-604c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lead"@en .
+<http://boden-chem.iqvoc.net/5af6c8e0-881a-0130-604c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Pb"@de .
+<http://boden-chem.iqvoc.net/5af6c8e0-881a-0130-604c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af6d720-881a-0130-604d-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af6d720-881a-0130-604d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bor"@de .
+<http://boden-chem.iqvoc.net/5af6d720-881a-0130-604d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boron"@en .
+<http://boden-chem.iqvoc.net/5af6d720-881a-0130-604d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "B"@de .
+<http://boden-chem.iqvoc.net/5af6d720-881a-0130-604d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af6eee0-881a-0130-604e-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af6eee0-881a-0130-604e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cadmium"@de .
+<http://boden-chem.iqvoc.net/5af6eee0-881a-0130-604e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cadmium"@en .
+<http://boden-chem.iqvoc.net/5af6eee0-881a-0130-604e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Cd"@de .
+<http://boden-chem.iqvoc.net/5af6eee0-881a-0130-604e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af6ff30-881a-0130-604f-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af6ff30-881a-0130-604f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caesium"@de .
+<http://boden-chem.iqvoc.net/5af6ff30-881a-0130-604f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caesium"@en .
+<http://boden-chem.iqvoc.net/5af6ff30-881a-0130-604f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Cs"@de .
+<http://boden-chem.iqvoc.net/5af6ff30-881a-0130-604f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af70d60-881a-0130-6050-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af70d60-881a-0130-6050-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calcium"@de .
+<http://boden-chem.iqvoc.net/5af70d60-881a-0130-6050-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calcium"@en .
+<http://boden-chem.iqvoc.net/5af70d60-881a-0130-6050-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Ca"@de .
+<http://boden-chem.iqvoc.net/5af70d60-881a-0130-6050-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af71ca0-881a-0130-6051-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af71ca0-881a-0130-6051-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calciumcarbonat"@de .
+<http://boden-chem.iqvoc.net/5af71ca0-881a-0130-6051-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calcium carbonate"@en .
+<http://boden-chem.iqvoc.net/5af71ca0-881a-0130-6051-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "CaCO3"@de .
+<http://boden-chem.iqvoc.net/5af71ca0-881a-0130-6051-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af72ab0-881a-0130-6052-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af72ab0-881a-0130-6052-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calciumchlorid"@de .
+<http://boden-chem.iqvoc.net/5af72ab0-881a-0130-6052-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calcium chloride"@en .
+<http://boden-chem.iqvoc.net/5af72ab0-881a-0130-6052-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "CaCl2"@de .
+<http://boden-chem.iqvoc.net/5af72ab0-881a-0130-6052-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af73960-881a-0130-6053-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af73960-881a-0130-6053-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karbonatgehalt"@de .
+<http://boden-chem.iqvoc.net/5af73960-881a-0130-6053-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbonate content"@en .
+<http://boden-chem.iqvoc.net/5af73960-881a-0130-6053-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af74740-881a-0130-6054-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af74740-881a-0130-6054-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chlorid"@de .
+<http://boden-chem.iqvoc.net/5af74740-881a-0130-6054-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chloride"@en .
+<http://boden-chem.iqvoc.net/5af74740-881a-0130-6054-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Cl"@de .
+<http://boden-chem.iqvoc.net/5af74740-881a-0130-6054-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af75770-881a-0130-6055-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af75770-881a-0130-6055-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrom"@de .
+<http://boden-chem.iqvoc.net/5af75770-881a-0130-6055-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chromium"@en .
+<http://boden-chem.iqvoc.net/5af75770-881a-0130-6055-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Cr"@de .
+<http://boden-chem.iqvoc.net/5af75770-881a-0130-6055-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af765a0-881a-0130-6056-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af765a0-881a-0130-6056-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eisen"@de .
+<http://boden-chem.iqvoc.net/5af765a0-881a-0130-6056-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iron"@en .
+<http://boden-chem.iqvoc.net/5af765a0-881a-0130-6056-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Fe"@de .
+<http://boden-chem.iqvoc.net/5af765a0-881a-0130-6056-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af778c0-881a-0130-6057-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af778c0-881a-0130-6057-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrische Leitfähigkeit, Kunduktivität"@de .
+<http://boden-chem.iqvoc.net/5af778c0-881a-0130-6057-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electrical resistivity, conductivity"@en .
+<http://boden-chem.iqvoc.net/5af778c0-881a-0130-6057-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af78790-881a-0130-6058-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af78790-881a-0130-6058-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluorid"@de .
+<http://boden-chem.iqvoc.net/5af78790-881a-0130-6058-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flouride"@en .
+<http://boden-chem.iqvoc.net/5af78790-881a-0130-6058-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af795b0-881a-0130-6059-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af795b0-881a-0130-6059-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelöster anorganischer Kohlenstoff"@de .
+<http://boden-chem.iqvoc.net/5af795b0-881a-0130-6059-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dissolved Inorganic Carbon"@en .
+<http://boden-chem.iqvoc.net/5af795b0-881a-0130-6059-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "DIC"@de .
+<http://boden-chem.iqvoc.net/5af795b0-881a-0130-6059-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af7a3b0-881a-0130-605a-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af7a3b0-881a-0130-605a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelöster anorganischer Stickstoff"@de .
+<http://boden-chem.iqvoc.net/5af7a3b0-881a-0130-605a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dissolved Inorganic Nitrogen"@en .
+<http://boden-chem.iqvoc.net/5af7a3b0-881a-0130-605a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "DIN"@de .
+<http://boden-chem.iqvoc.net/5af7a3b0-881a-0130-605a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af7b1d0-881a-0130-605b-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af7b1d0-881a-0130-605b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesamter anorganischer Kohlenstoff"@de .
+<http://boden-chem.iqvoc.net/5af7b1d0-881a-0130-605b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Inorganic Carbon"@en .
+<http://boden-chem.iqvoc.net/5af7b1d0-881a-0130-605b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "TIC"@de .
+<http://boden-chem.iqvoc.net/5af7b1d0-881a-0130-605b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af7c180-881a-0130-605c-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af7c180-881a-0130-605c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesamter anorganischer Stickstoff"@de .
+<http://boden-chem.iqvoc.net/5af7c180-881a-0130-605c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totoal Organic Nitrogen"@en .
+<http://boden-chem.iqvoc.net/5af7c180-881a-0130-605c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "TIN"@de .
+<http://boden-chem.iqvoc.net/5af7c180-881a-0130-605c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af7d500-881a-0130-605d-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af7d500-881a-0130-605d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtkohlenstoff"@de .
+<http://boden-chem.iqvoc.net/5af7d500-881a-0130-605d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Carbon"@en .
+<http://boden-chem.iqvoc.net/5af7d500-881a-0130-605d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "TC"@de .
+<http://boden-chem.iqvoc.net/5af7d500-881a-0130-605d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af7e4d0-881a-0130-605e-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af7e4d0-881a-0130-605e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtstickstoff"@de .
+<http://boden-chem.iqvoc.net/5af7e4d0-881a-0130-605e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Nitrogen"@en .
+<http://boden-chem.iqvoc.net/5af7e4d0-881a-0130-605e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "TN"@de .
+<http://boden-chem.iqvoc.net/5af7e4d0-881a-0130-605e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af7f320-881a-0130-605f-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af7f320-881a-0130-605f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphor"@de .
+<http://boden-chem.iqvoc.net/5af7f320-881a-0130-605f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphorus"@en .
+<http://boden-chem.iqvoc.net/5af7f320-881a-0130-605f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "P"@de .
+<http://boden-chem.iqvoc.net/5af7f320-881a-0130-605f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af80140-881a-0130-6060-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af80140-881a-0130-6060-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalium"@de .
+<http://boden-chem.iqvoc.net/5af80140-881a-0130-6060-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potassium"@en .
+<http://boden-chem.iqvoc.net/5af80140-881a-0130-6060-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "K"@de .
+<http://boden-chem.iqvoc.net/5af80140-881a-0130-6060-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af81010-881a-0130-6061-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af81010-881a-0130-6061-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaliumchlorid"@de .
+<http://boden-chem.iqvoc.net/5af81010-881a-0130-6061-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potassium chloride"@en .
+<http://boden-chem.iqvoc.net/5af81010-881a-0130-6061-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "KCl"@de .
+<http://boden-chem.iqvoc.net/5af81010-881a-0130-6061-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af81e00-881a-0130-6062-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af81e00-881a-0130-6062-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalk"@de .
+<http://boden-chem.iqvoc.net/5af81e00-881a-0130-6062-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lime"@en .
+<http://boden-chem.iqvoc.net/5af81e00-881a-0130-6062-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "CaCO3"@de .
+<http://boden-chem.iqvoc.net/5af81e00-881a-0130-6062-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af82c10-881a-0130-6063-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af82c10-881a-0130-6063-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalkgehalt"@de .
+<http://boden-chem.iqvoc.net/5af82c10-881a-0130-6063-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lime content"@en .
+<http://boden-chem.iqvoc.net/5af82c10-881a-0130-6063-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af839f0-881a-0130-6064-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af839f0-881a-0130-6064-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "effektive Kationaustauschkapazität"@de .
+<http://boden-chem.iqvoc.net/5af839f0-881a-0130-6064-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Effective Cation-exchange capacity"@en .
+<http://boden-chem.iqvoc.net/5af839f0-881a-0130-6064-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "KAKeff, Ake"@de .
+<http://boden-chem.iqvoc.net/5af839f0-881a-0130-6064-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af84940-881a-0130-6065-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af84940-881a-0130-6065-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "potentielle Kationaustauschkapazität"@de .
+<http://boden-chem.iqvoc.net/5af84940-881a-0130-6065-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potential Cation-exchange capacity"@en .
+<http://boden-chem.iqvoc.net/5af84940-881a-0130-6065-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "KAKpot, Akt"@de .
+<http://boden-chem.iqvoc.net/5af84940-881a-0130-6065-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af85b30-881a-0130-6066-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af85b30-881a-0130-6066-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kationaustauschkapazität"@de .
+<http://boden-chem.iqvoc.net/5af85b30-881a-0130-6066-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cation-exchange capacity"@en .
+<http://boden-chem.iqvoc.net/5af85b30-881a-0130-6066-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "KAK, T-Wert"@de .
+<http://boden-chem.iqvoc.net/5af85b30-881a-0130-6066-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af86c00-881a-0130-6067-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af86c00-881a-0130-6067-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kationen"@de .
+<http://boden-chem.iqvoc.net/5af86c00-881a-0130-6067-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cations"@en .
+<http://boden-chem.iqvoc.net/5af86c00-881a-0130-6067-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af87a10-881a-0130-6068-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af87a10-881a-0130-6068-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kobalt"@de .
+<http://boden-chem.iqvoc.net/5af87a10-881a-0130-6068-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cobalt"@en .
+<http://boden-chem.iqvoc.net/5af87a10-881a-0130-6068-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Co"@de .
+<http://boden-chem.iqvoc.net/5af87a10-881a-0130-6068-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af88810-881a-0130-6069-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af88810-881a-0130-6069-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoff"@de .
+<http://boden-chem.iqvoc.net/5af88810-881a-0130-6069-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon"@en .
+<http://boden-chem.iqvoc.net/5af88810-881a-0130-6069-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "C"@de .
+<http://boden-chem.iqvoc.net/5af88810-881a-0130-6069-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af897e0-881a-0130-606a-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af897e0-881a-0130-606a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoffbilanz"@de .
+<http://boden-chem.iqvoc.net/5af897e0-881a-0130-606a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon balance"@en .
+<http://boden-chem.iqvoc.net/5af897e0-881a-0130-606a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af8a5d0-881a-0130-606b-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af8a5d0-881a-0130-606b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoffflüsse"@de .
+<http://boden-chem.iqvoc.net/5af8a5d0-881a-0130-606b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon flows"@en .
+<http://boden-chem.iqvoc.net/5af8a5d0-881a-0130-606b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af8b3d0-881a-0130-606c-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af8b3d0-881a-0130-606c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoffimmobilisierung"@de .
+<http://boden-chem.iqvoc.net/5af8b3d0-881a-0130-606c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon immobilisation"@en .
+<http://boden-chem.iqvoc.net/5af8b3d0-881a-0130-606c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af8c210-881a-0130-606d-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af8c210-881a-0130-606d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Königswasser"@de .
+<http://boden-chem.iqvoc.net/5af8c210-881a-0130-606d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aqua regia"@en .
+<http://boden-chem.iqvoc.net/5af8c210-881a-0130-606d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af90b30-881a-0130-606e-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af90b30-881a-0130-606e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Königswasserextrakt"@de .
+<http://boden-chem.iqvoc.net/5af90b30-881a-0130-606e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aqua regia digestion"@en .
+<http://boden-chem.iqvoc.net/5af90b30-881a-0130-606e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af92470-881a-0130-606f-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af92470-881a-0130-606f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kupfer"@de .
+<http://boden-chem.iqvoc.net/5af92470-881a-0130-606f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Copper"@en .
+<http://boden-chem.iqvoc.net/5af92470-881a-0130-606f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Cu"@de .
+<http://boden-chem.iqvoc.net/5af92470-881a-0130-606f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af93fb0-881a-0130-6070-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af93fb0-881a-0130-6070-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magnesium"@de .
+<http://boden-chem.iqvoc.net/5af93fb0-881a-0130-6070-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magnesium"@en .
+<http://boden-chem.iqvoc.net/5af93fb0-881a-0130-6070-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Mg"@de .
+<http://boden-chem.iqvoc.net/5af93fb0-881a-0130-6070-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af958d0-881a-0130-6071-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af958d0-881a-0130-6071-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mangan"@de .
+<http://boden-chem.iqvoc.net/5af958d0-881a-0130-6071-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manganese"@en .
+<http://boden-chem.iqvoc.net/5af958d0-881a-0130-6071-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Mn"@de .
+<http://boden-chem.iqvoc.net/5af958d0-881a-0130-6071-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af97220-881a-0130-6072-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af97220-881a-0130-6072-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "MIR-Spektren"@de .
+<http://boden-chem.iqvoc.net/5af97220-881a-0130-6072-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "MIR spectra"@en .
+<http://boden-chem.iqvoc.net/5af97220-881a-0130-6072-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5af98df0-881a-0130-6073-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5af98df0-881a-0130-6073-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nährstoffgehalte"@de .
+<http://boden-chem.iqvoc.net/5af98df0-881a-0130-6073-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "nutrient loads, nutrient content"@en .
+<http://boden-chem.iqvoc.net/5af98df0-881a-0130-6073-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afcf300-881a-0130-6074-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afcf300-881a-0130-6074-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natrium"@de .
+<http://boden-chem.iqvoc.net/5afcf300-881a-0130-6074-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sodium"@en .
+<http://boden-chem.iqvoc.net/5afcf300-881a-0130-6074-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Na"@de .
+<http://boden-chem.iqvoc.net/5afcf300-881a-0130-6074-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd11f0-881a-0130-6075-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd11f0-881a-0130-6075-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nickel"@de .
+<http://boden-chem.iqvoc.net/5afd11f0-881a-0130-6075-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nickel"@en .
+<http://boden-chem.iqvoc.net/5afd11f0-881a-0130-6075-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Ni"@de .
+<http://boden-chem.iqvoc.net/5afd11f0-881a-0130-6075-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd2260-881a-0130-6076-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd2260-881a-0130-6076-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrat"@de .
+<http://boden-chem.iqvoc.net/5afd2260-881a-0130-6076-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrate"@en .
+<http://boden-chem.iqvoc.net/5afd2260-881a-0130-6076-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "NO3"@de .
+<http://boden-chem.iqvoc.net/5afd2260-881a-0130-6076-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd3180-881a-0130-6077-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd3180-881a-0130-6077-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrit"@de .
+<http://boden-chem.iqvoc.net/5afd3180-881a-0130-6077-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrite"@en .
+<http://boden-chem.iqvoc.net/5afd3180-881a-0130-6077-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "NO2"@de .
+<http://boden-chem.iqvoc.net/5afd3180-881a-0130-6077-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd3fe0-881a-0130-6078-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd3fe0-881a-0130-6078-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "N-Tiefenverlagerung"@de .
+<http://boden-chem.iqvoc.net/5afd3fe0-881a-0130-6078-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "N-depth displacement"@en .
+<http://boden-chem.iqvoc.net/5afd3fe0-881a-0130-6078-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd4e00-881a-0130-6079-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd4e00-881a-0130-6079-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphat"@de .
+<http://boden-chem.iqvoc.net/5afd4e00-881a-0130-6079-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphate"@en .
+<http://boden-chem.iqvoc.net/5afd4e00-881a-0130-6079-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "PO4"@de .
+<http://boden-chem.iqvoc.net/5afd4e00-881a-0130-6079-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd5d60-881a-0130-607a-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd5d60-881a-0130-607a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "pH-Wert, pH"@de .
+<http://boden-chem.iqvoc.net/5afd5d60-881a-0130-607a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "pH value"@en .
+<http://boden-chem.iqvoc.net/5afd5d60-881a-0130-607a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd6b70-881a-0130-607b-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd6b70-881a-0130-607b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quecksilber"@de .
+<http://boden-chem.iqvoc.net/5afd6b70-881a-0130-607b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mercury"@en .
+<http://boden-chem.iqvoc.net/5afd6b70-881a-0130-607b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Hg"@de .
+<http://boden-chem.iqvoc.net/5afd6b70-881a-0130-607b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd8560-881a-0130-607c-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd8560-881a-0130-607c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Redoxpotenzial, Redoxpotential"@de .
+<http://boden-chem.iqvoc.net/5afd8560-881a-0130-607c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "redox potential"@en .
+<http://boden-chem.iqvoc.net/5afd8560-881a-0130-607c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afd9470-881a-0130-607d-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afd9470-881a-0130-607d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schwefel"@de .
+<http://boden-chem.iqvoc.net/5afd9470-881a-0130-607d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulfur"@en .
+<http://boden-chem.iqvoc.net/5afd9470-881a-0130-607d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "S"@de .
+<http://boden-chem.iqvoc.net/5afd9470-881a-0130-607d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afda2e0-881a-0130-607e-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afda2e0-881a-0130-607e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schwermetallgehalte"@de .
+<http://boden-chem.iqvoc.net/5afda2e0-881a-0130-607e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "heavy metal contents"@en .
+<http://boden-chem.iqvoc.net/5afda2e0-881a-0130-607e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afdb900-881a-0130-607f-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afdb900-881a-0130-607f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silicium"@de .
+<http://boden-chem.iqvoc.net/5afdb900-881a-0130-607f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silicon"@en .
+<http://boden-chem.iqvoc.net/5afdb900-881a-0130-607f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Si"@de .
+<http://boden-chem.iqvoc.net/5afdb900-881a-0130-607f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afdd170-881a-0130-6080-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afdd170-881a-0130-6080-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silikat"@de .
+<http://boden-chem.iqvoc.net/5afdd170-881a-0130-6080-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silicate"@en .
+<http://boden-chem.iqvoc.net/5afdd170-881a-0130-6080-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afde6e0-881a-0130-6081-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afde6e0-881a-0130-6081-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stickstoff"@de .
+<http://boden-chem.iqvoc.net/5afde6e0-881a-0130-6081-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrogen"@en .
+<http://boden-chem.iqvoc.net/5afde6e0-881a-0130-6081-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "N"@de .
+<http://boden-chem.iqvoc.net/5afde6e0-881a-0130-6081-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afdfc50-881a-0130-6082-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afdfc50-881a-0130-6082-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strontium"@de .
+<http://boden-chem.iqvoc.net/5afdfc50-881a-0130-6082-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strontium"@en .
+<http://boden-chem.iqvoc.net/5afdfc50-881a-0130-6082-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Sr"@de .
+<http://boden-chem.iqvoc.net/5afdfc50-881a-0130-6082-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afe11c0-881a-0130-6083-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afe11c0-881a-0130-6083-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulfat"@de .
+<http://boden-chem.iqvoc.net/5afe11c0-881a-0130-6083-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulfate"@en .
+<http://boden-chem.iqvoc.net/5afe11c0-881a-0130-6083-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "SO4"@de .
+<http://boden-chem.iqvoc.net/5afe11c0-881a-0130-6083-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afe2770-881a-0130-6084-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afe2770-881a-0130-6084-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Titan"@de .
+<http://boden-chem.iqvoc.net/5afe2770-881a-0130-6084-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Titanium"@en .
+<http://boden-chem.iqvoc.net/5afe2770-881a-0130-6084-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Ti"@de .
+<http://boden-chem.iqvoc.net/5afe2770-881a-0130-6084-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afe3ec0-881a-0130-6085-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afe3ec0-881a-0130-6085-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vanadium"@de .
+<http://boden-chem.iqvoc.net/5afe3ec0-881a-0130-6085-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vanadium"@en .
+<http://boden-chem.iqvoc.net/5afe3ec0-881a-0130-6085-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "V"@de .
+<http://boden-chem.iqvoc.net/5afe3ec0-881a-0130-6085-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afe4d50-881a-0130-6086-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afe4d50-881a-0130-6086-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasser"@de .
+<http://boden-chem.iqvoc.net/5afe4d50-881a-0130-6086-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "water"@en .
+<http://boden-chem.iqvoc.net/5afe4d50-881a-0130-6086-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "H2O"@de .
+<http://boden-chem.iqvoc.net/5afe4d50-881a-0130-6086-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afe5bc0-881a-0130-6087-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afe5bc0-881a-0130-6087-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasserstoff"@de .
+<http://boden-chem.iqvoc.net/5afe5bc0-881a-0130-6087-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hydrogen"@en .
+<http://boden-chem.iqvoc.net/5afe5bc0-881a-0130-6087-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "H"@de .
+<http://boden-chem.iqvoc.net/5afe5bc0-881a-0130-6087-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/5afe6ed0-881a-0130-6088-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/5afe6ed0-881a-0130-6088-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zink"@de .
+<http://boden-chem.iqvoc.net/5afe6ed0-881a-0130-6088-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zinc"@en .
+<http://boden-chem.iqvoc.net/5afe6ed0-881a-0130-6088-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Zn"@de .
+<http://boden-chem.iqvoc.net/5afe6ed0-881a-0130-6088-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anorganische Bodenchemische Parameter"@de .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af63ff0-881a-0130-6045-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af670c0-881a-0130-6046-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af67ff0-881a-0130-6047-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af68e70-881a-0130-6048-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af69c90-881a-0130-6049-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af6abb0-881a-0130-604a-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af6b9f0-881a-0130-604b-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af6c8e0-881a-0130-604c-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af6d720-881a-0130-604d-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af6eee0-881a-0130-604e-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af6ff30-881a-0130-604f-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af70d60-881a-0130-6050-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af71ca0-881a-0130-6051-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af72ab0-881a-0130-6052-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af73960-881a-0130-6053-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af74740-881a-0130-6054-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af75770-881a-0130-6055-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af765a0-881a-0130-6056-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af778c0-881a-0130-6057-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af78790-881a-0130-6058-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af795b0-881a-0130-6059-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af7a3b0-881a-0130-605a-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af7b1d0-881a-0130-605b-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af7c180-881a-0130-605c-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af7d500-881a-0130-605d-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af7e4d0-881a-0130-605e-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af7f320-881a-0130-605f-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af80140-881a-0130-6060-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af81010-881a-0130-6061-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af81e00-881a-0130-6062-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af82c10-881a-0130-6063-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af839f0-881a-0130-6064-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af84940-881a-0130-6065-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af85b30-881a-0130-6066-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af86c00-881a-0130-6067-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af87a10-881a-0130-6068-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af88810-881a-0130-6069-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af897e0-881a-0130-606a-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af8a5d0-881a-0130-606b-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af8b3d0-881a-0130-606c-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af8c210-881a-0130-606d-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af90b30-881a-0130-606e-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af92470-881a-0130-606f-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af93fb0-881a-0130-6070-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af958d0-881a-0130-6071-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af97220-881a-0130-6072-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5af98df0-881a-0130-6073-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afcf300-881a-0130-6074-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd11f0-881a-0130-6075-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd2260-881a-0130-6076-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd3180-881a-0130-6077-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd3fe0-881a-0130-6078-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd4e00-881a-0130-6079-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd5d60-881a-0130-607a-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd6b70-881a-0130-607b-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd8560-881a-0130-607c-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afd9470-881a-0130-607d-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afda2e0-881a-0130-607e-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afdb900-881a-0130-607f-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afdd170-881a-0130-6080-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afde6e0-881a-0130-6081-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afdfc50-881a-0130-6082-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afe11c0-881a-0130-6083-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afe2770-881a-0130-6084-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afe3ec0-881a-0130-6085-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afe4d50-881a-0130-6086-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afe5bc0-881a-0130-6087-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/anorganische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/5afe6ed0-881a-0130-6088-64ce8f1047dc> .
 <http://boden-chem.iqvoc.net/_1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acenaphthen"@de .
 <http://boden-chem.iqvoc.net/_1> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acenaphthene"@en .
-<http://boden-chem.iqvoc.net/_1> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_1> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acenaphthylen"@de .
 <http://boden-chem.iqvoc.net/_2> <http://www.w3.org/2004/02/skos/core#prefLabel> "Acenaphthylene"@en .
-<http://boden-chem.iqvoc.net/_2> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_2> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aldrin"@de .
 <http://boden-chem.iqvoc.net/_3> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aldrin"@en .
@@ -20,28 +414,28 @@
 <http://boden-chem.iqvoc.net/_5> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/_62> .
 <http://boden-chem.iqvoc.net/_6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_6> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aromatische Alkohole"@de .
-<http://boden-chem.iqvoc.net/_6> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_6> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_7> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aromatische Amine"@de .
-<http://boden-chem.iqvoc.net/_7> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_7> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atrazin"@de .
 <http://boden-chem.iqvoc.net/_8> <http://www.w3.org/2004/02/skos/core#prefLabel> "Atrazine"@en .
-<http://boden-chem.iqvoc.net/_8> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_8> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_9> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bisphenol A"@de .
-<http://boden-chem.iqvoc.net/_9> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_9> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_10> <http://www.w3.org/2004/02/skos/core#prefLabel> "Benzo[a]pyren"@de .
 <http://boden-chem.iqvoc.net/_10> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/_62> .
 <http://boden-chem.iqvoc.net/_14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_14> <http://www.w3.org/2004/02/skos/core#prefLabel> "CAL-Extrakt"@de .
-<http://boden-chem.iqvoc.net/_14> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_14> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chlorid"@de .
 <http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chloride"@en .
 <http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#altLabel> "Cl"@de .
-<http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_15> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_17> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrysen"@de .
 <http://boden-chem.iqvoc.net/_17> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrysene"@en .
@@ -57,7 +451,7 @@
 <http://boden-chem.iqvoc.net/_21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_21> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endrin"@de .
 <http://boden-chem.iqvoc.net/_21> <http://www.w3.org/2004/02/skos/core#prefLabel> "Endrin"@en .
-<http://boden-chem.iqvoc.net/_21> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_21> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_22> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flouranthen"@de .
 <http://boden-chem.iqvoc.net/_22> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flouranthe"@en .
@@ -65,35 +459,35 @@
 <http://boden-chem.iqvoc.net/_23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_23> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluoren"@de .
 <http://boden-chem.iqvoc.net/_23> <http://www.w3.org/2004/02/skos/core#prefLabel> "flourines"@en .
-<http://boden-chem.iqvoc.net/_23> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_23> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelöster organischer Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dissolved Organic Carbon"@en .
 <http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#altLabel> "DOC"@de .
-<http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_24> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtkohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Carbon"@en .
 <http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#altLabel> "TC"@de .
-<http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_25> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_26> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtkohlenstoffgehalt"@de .
-<http://boden-chem.iqvoc.net/_26> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_26> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesamter organischer Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Organic Carbon"@en .
 <http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#altLabel> "TOC"@de .
-<http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_28> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesamter organischer Stickstoff"@de .
 <http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Organic Nitrogen"@en .
 <http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#altLabel> "TON"@de .
-<http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_29> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtstickstoff"@de .
 <http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Nitrogen"@en .
 <http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#altLabel> "TN"@de .
-<http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_30> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_31> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heptachlor"@de .
 <http://boden-chem.iqvoc.net/_31> <http://www.w3.org/2004/02/skos/core#prefLabel> "Heptachlor"@en .
@@ -108,15 +502,15 @@
 <http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon"@en .
 <http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#altLabel> "C"@de .
-<http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_33> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_34> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoffbilanz"@de .
 <http://boden-chem.iqvoc.net/_34> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon balance"@en .
-<http://boden-chem.iqvoc.net/_34> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_34> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_38> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molybdän"@de .
 <http://boden-chem.iqvoc.net/_38> <http://www.w3.org/2004/02/skos/core#prefLabel> "Molybdenum"@en .
-<http://boden-chem.iqvoc.net/_38> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_38> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_42> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naphthalin"@de .
 <http://boden-chem.iqvoc.net/_42> <http://www.w3.org/2004/02/skos/core#prefLabel> "Naphthalene"@en .
@@ -124,11 +518,11 @@
 <http://boden-chem.iqvoc.net/_43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_43> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitroaromaten"@de .
 <http://boden-chem.iqvoc.net/_43> <http://www.w3.org/2004/02/skos/core#prefLabel> "nitroaromatic"@en .
-<http://boden-chem.iqvoc.net/_43> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_43> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_44> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nonylphenol"@de .
 <http://boden-chem.iqvoc.net/_44> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nonylphenol"@en .
-<http://boden-chem.iqvoc.net/_44> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_44> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_46> <http://www.w3.org/2004/02/skos/core#prefLabel> "Octachlorstyrol"@de .
 <http://boden-chem.iqvoc.net/_46> <http://www.w3.org/2004/02/skos/core#prefLabel> "Octachlorstyrene"@en .
@@ -138,30 +532,29 @@
 <http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#prefLabel> "organische Bodensubstanz"@de .
 <http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil organic mattter"@en .
 <http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#altLabel> "SOM"@de .
-<http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_47> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#prefLabel> "organische Spurenstoffe"@de .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic trace substances"@en .
-<http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_49> .
+<http://boden-chem.iqvoc.net/_48> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#prefLabel> "organischer Kohlenstoff"@de .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic Carbon"@en .
 <http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#altLabel> "OC"@de .
-<http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_50> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_51> <http://www.w3.org/2004/02/skos/core#prefLabel> "organischer Schadstoffgehalt"@de .
 <http://boden-chem.iqvoc.net/_51> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic pollutant content"@en .
-<http://boden-chem.iqvoc.net/_51> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_51> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#prefLabel> "organischer Stickstoff"@de .
 <http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organic Nitrogen"@en .
 <http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#altLabel> "ON"@de .
-<http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_53> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organochlorverbindungen"@de .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organochloride compounds"@en .
-<http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_3> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_19> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_31> .
@@ -175,10 +568,11 @@
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_75> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_76> .
 <http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_77> .
+<http://boden-chem.iqvoc.net/_54> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_55> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pentachlorbenzol"@de .
 <http://boden-chem.iqvoc.net/_55> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pentachlorobenzene"@en .
-<http://boden-chem.iqvoc.net/_55> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_55> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_56> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phenanthren"@de .
 <http://boden-chem.iqvoc.net/_56> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phenanthrene"@en .
@@ -186,11 +580,11 @@
 <http://boden-chem.iqvoc.net/_57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_57> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phenole"@de .
 <http://boden-chem.iqvoc.net/_57> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phenols"@en .
-<http://boden-chem.iqvoc.net/_57> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_57> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_58> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phthalate"@de .
 <http://boden-chem.iqvoc.net/_58> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phthalate"@en .
-<http://boden-chem.iqvoc.net/_58> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_58> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_59> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorierte Biphenyle"@de .
 <http://boden-chem.iqvoc.net/_59> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorinated biphenyl"@en .
@@ -200,17 +594,16 @@
 <http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorierte dibenzodioxins"@de .
 <http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorinated dibenzodioxins"@en .
 <http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#altLabel> "PCDD"@de .
-<http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_60> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorierte dibenzofurane"@de .
 <http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polychlorinated dibenzofurane"@en .
 <http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#altLabel> "PCDF"@de .
-<http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_61> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polycyclische aromatische Kohlenwasserstoffe"@de .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#prefLabel> "Polycyclic Aromatic Hydrocarbons"@en .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#altLabel> "PAK"@de .
-<http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_4> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_5> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_10> .
@@ -228,18 +621,19 @@
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_84> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_85> .
 <http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_86> .
+<http://boden-chem.iqvoc.net/_62> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#prefLabel> "Propazin"@de .
 <http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#prefLabel> "Propazine"@en .
-<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_63> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pyren"@de .
 <http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#prefLabel> "Pyrene"@en .
-<http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_64> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_67> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triazine"@de .
 <http://boden-chem.iqvoc.net/_67> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triazine"@en .
-<http://boden-chem.iqvoc.net/_67> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/_67> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> .
 <http://boden-chem.iqvoc.net/_68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_68> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triphenylen"@de .
 <http://boden-chem.iqvoc.net/_68> <http://www.w3.org/2004/02/skos/core#prefLabel> "Triphenylen"@en .
@@ -298,3 +692,397 @@
 <http://boden-chem.iqvoc.net/_86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
 <http://boden-chem.iqvoc.net/_86> <http://www.w3.org/2004/02/skos/core#prefLabel> "Indeno[1,2,3-cd]pyren"@de .
 <http://boden-chem.iqvoc.net/_86> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/_62> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Organische Bodenchemische Parameter"@de .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_1> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_2> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_6> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_7> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_8> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_9> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_14> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_15> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_21> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_23> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_24> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_25> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_26> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_28> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_29> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_30> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_33> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_34> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_38> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_43> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_44> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_47> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_48> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_50> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_51> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_53> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_54> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_55> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_57> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_58> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_60> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_61> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_62> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_63> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_64> .
+<http://boden-chem.iqvoc.net/organische-bodenchemische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/_67> .
+<http://boden-chem.iqvoc.net/65ba7e60-881a-0130-6089-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65ba7e60-881a-0130-6089-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "(Boden)Gefüge, Bodengefüge"@de .
+<http://boden-chem.iqvoc.net/65ba7e60-881a-0130-6089-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil structure"@en .
+<http://boden-chem.iqvoc.net/65ba7e60-881a-0130-6089-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bab2f0-881a-0130-608a-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bab2f0-881a-0130-608a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aggregatstabilität"@de .
+<http://boden-chem.iqvoc.net/65bab2f0-881a-0130-608a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "aggregate stability"@en .
+<http://boden-chem.iqvoc.net/65bab2f0-881a-0130-608a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bac5e0-881a-0130-608b-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bac5e0-881a-0130-608b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenfeuchte"@de .
+<http://boden-chem.iqvoc.net/65bac5e0-881a-0130-608b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil moisture"@en .
+<http://boden-chem.iqvoc.net/65bac5e0-881a-0130-608b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bad570-881a-0130-608c-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bad570-881a-0130-608c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenfruchtbarkeit"@de .
+<http://boden-chem.iqvoc.net/65bad570-881a-0130-608c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil fertility"@en .
+<http://boden-chem.iqvoc.net/65bad570-881a-0130-608c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bae4d0-881a-0130-608d-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bae4d0-881a-0130-608d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenrohdichte"@de .
+<http://boden-chem.iqvoc.net/65bae4d0-881a-0130-608d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "bulk density"@en .
+<http://boden-chem.iqvoc.net/65bae4d0-881a-0130-608d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65baf430-881a-0130-608e-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65baf430-881a-0130-608e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodensickerwasser"@de .
+<http://boden-chem.iqvoc.net/65baf430-881a-0130-608e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil seepage water, soil leachate"@en .
+<http://boden-chem.iqvoc.net/65baf430-881a-0130-608e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb0370-881a-0130-608f-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb0370-881a-0130-608f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodentemperatur"@de .
+<http://boden-chem.iqvoc.net/65bb0370-881a-0130-608f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil temperature"@en .
+<http://boden-chem.iqvoc.net/65bb0370-881a-0130-608f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb12f0-881a-0130-6090-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb12f0-881a-0130-6090-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodentragfähigkeit"@de .
+<http://boden-chem.iqvoc.net/65bb12f0-881a-0130-6090-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil bearing capacity"@en .
+<http://boden-chem.iqvoc.net/65bb12f0-881a-0130-6090-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb2280-881a-0130-6091-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb2280-881a-0130-6091-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenwasser"@de .
+<http://boden-chem.iqvoc.net/65bb2280-881a-0130-6091-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil water"@en .
+<http://boden-chem.iqvoc.net/65bb2280-881a-0130-6091-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb3cd0-881a-0130-6092-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb3cd0-881a-0130-6092-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinbodenvorrat"@de .
+<http://boden-chem.iqvoc.net/65bb3cd0-881a-0130-6092-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine soil stock, amount of fine earth"@en .
+<http://boden-chem.iqvoc.net/65bb3cd0-881a-0130-6092-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb4c60-881a-0130-6093-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb4c60-881a-0130-6093-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feindurchwurzelung"@de .
+<http://boden-chem.iqvoc.net/65bb4c60-881a-0130-6093-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine root penetration"@en .
+<http://boden-chem.iqvoc.net/65bb4c60-881a-0130-6093-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb5b90-881a-0130-6094-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb5b90-881a-0130-6094-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinlehm"@de .
+<http://boden-chem.iqvoc.net/65bb5b90-881a-0130-6094-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine loam"@en .
+<http://boden-chem.iqvoc.net/65bb5b90-881a-0130-6094-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb6a40-881a-0130-6095-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb6a40-881a-0130-6095-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinsand"@de .
+<http://boden-chem.iqvoc.net/65bb6a40-881a-0130-6095-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine sand"@en .
+<http://boden-chem.iqvoc.net/65bb6a40-881a-0130-6095-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb79a0-881a-0130-6096-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb79a0-881a-0130-6096-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinschluff"@de .
+<http://boden-chem.iqvoc.net/65bb79a0-881a-0130-6096-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine silt"@en .
+<http://boden-chem.iqvoc.net/65bb79a0-881a-0130-6096-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb89b0-881a-0130-6097-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb89b0-881a-0130-6097-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinton"@de .
+<http://boden-chem.iqvoc.net/65bb89b0-881a-0130-6097-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine clay"@en .
+<http://boden-chem.iqvoc.net/65bb89b0-881a-0130-6097-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bb98c0-881a-0130-6098-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bb98c0-881a-0130-6098-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feldkapazität"@de .
+<http://boden-chem.iqvoc.net/65bb98c0-881a-0130-6098-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "field capacity"@en .
+<http://boden-chem.iqvoc.net/65bb98c0-881a-0130-6098-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bba7e0-881a-0130-6099-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bba7e0-881a-0130-6099-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Festsubstanzdichte"@de .
+<http://boden-chem.iqvoc.net/65bba7e0-881a-0130-6099-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "solid substance density"@en .
+<http://boden-chem.iqvoc.net/65bba7e0-881a-0130-6099-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bbb750-881a-0130-609a-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bbb750-881a-0130-609a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groblehm"@de .
+<http://boden-chem.iqvoc.net/65bbb750-881a-0130-609a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse loam"@en .
+<http://boden-chem.iqvoc.net/65bbb750-881a-0130-609a-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bbd1e0-881a-0130-609b-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bbd1e0-881a-0130-609b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grobsand"@de .
+<http://boden-chem.iqvoc.net/65bbd1e0-881a-0130-609b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse sand"@en .
+<http://boden-chem.iqvoc.net/65bbd1e0-881a-0130-609b-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bbee50-881a-0130-609c-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bbee50-881a-0130-609c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grobschluff"@de .
+<http://boden-chem.iqvoc.net/65bbee50-881a-0130-609c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse silt"@en .
+<http://boden-chem.iqvoc.net/65bbee50-881a-0130-609c-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bbfdf0-881a-0130-609d-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bbfdf0-881a-0130-609d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grobton"@de .
+<http://boden-chem.iqvoc.net/65bbfdf0-881a-0130-609d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse clay"@en .
+<http://boden-chem.iqvoc.net/65bbfdf0-881a-0130-609d-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc0d40-881a-0130-609e-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc0d40-881a-0130-609e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humusbilanz"@de .
+<http://boden-chem.iqvoc.net/65bc0d40-881a-0130-609e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus balance"@en .
+<http://boden-chem.iqvoc.net/65bc0d40-881a-0130-609e-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc2010-881a-0130-609f-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc2010-881a-0130-609f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humusfraktionen"@de .
+<http://boden-chem.iqvoc.net/65bc2010-881a-0130-609f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus fraction"@en .
+<http://boden-chem.iqvoc.net/65bc2010-881a-0130-609f-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc2f40-881a-0130-60a0-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc2f40-881a-0130-60a0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humusgehalt"@de .
+<http://boden-chem.iqvoc.net/65bc2f40-881a-0130-60a0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus content"@en .
+<http://boden-chem.iqvoc.net/65bc2f40-881a-0130-60a0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc3ee0-881a-0130-60a1-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc3ee0-881a-0130-60a1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humushaushalt"@de .
+<http://boden-chem.iqvoc.net/65bc3ee0-881a-0130-60a1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus balance"@en .
+<http://boden-chem.iqvoc.net/65bc3ee0-881a-0130-60a1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc4e30-881a-0130-60a2-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc4e30-881a-0130-60a2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humusvorräte"@de .
+<http://boden-chem.iqvoc.net/65bc4e30-881a-0130-60a2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus stock"@en .
+<http://boden-chem.iqvoc.net/65bc4e30-881a-0130-60a2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc5d80-881a-0130-60a3-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc5d80-881a-0130-60a3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infiltrationsrate"@de .
+<http://boden-chem.iqvoc.net/65bc5d80-881a-0130-60a3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "infiltration rate"@en .
+<http://boden-chem.iqvoc.net/65bc5d80-881a-0130-60a3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc6de0-881a-0130-60a4-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc6de0-881a-0130-60a4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klimatische Wasserbilanz"@de .
+<http://boden-chem.iqvoc.net/65bc6de0-881a-0130-60a4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "climatic water balance"@en .
+<http://boden-chem.iqvoc.net/65bc6de0-881a-0130-60a4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc7d20-881a-0130-60a5-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc7d20-881a-0130-60a5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kornfeuchtigkeit"@de .
+<http://boden-chem.iqvoc.net/65bc7d20-881a-0130-60a5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "particle moisture"@en .
+<http://boden-chem.iqvoc.net/65bc7d20-881a-0130-60a5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc8e00-881a-0130-60a6-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc8e00-881a-0130-60a6-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korngröße"@de .
+<http://boden-chem.iqvoc.net/65bc8e00-881a-0130-60a6-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "particle size"@en .
+<http://boden-chem.iqvoc.net/65bc8e00-881a-0130-60a6-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bc9de0-881a-0130-60a7-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bc9de0-881a-0130-60a7-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korngrößenverteilung"@de .
+<http://boden-chem.iqvoc.net/65bc9de0-881a-0130-60a7-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "particle size distribution"@en .
+<http://boden-chem.iqvoc.net/65bc9de0-881a-0130-60a7-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bcb8c0-881a-0130-60a8-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bcb8c0-881a-0130-60a8-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Körnungsart"@de .
+<http://boden-chem.iqvoc.net/65bcb8c0-881a-0130-60a8-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "particle typesoil texture"@en .
+<http://boden-chem.iqvoc.net/65bcb8c0-881a-0130-60a8-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bcc820-881a-0130-60a9-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bcc820-881a-0130-60a9-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lagerungsdichte"@de .
+<http://boden-chem.iqvoc.net/65bcc820-881a-0130-60a9-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "bulk density"@en .
+<http://boden-chem.iqvoc.net/65bcc820-881a-0130-60a9-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bcd770-881a-0130-60aa-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bcd770-881a-0130-60aa-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lehm"@de .
+<http://boden-chem.iqvoc.net/65bcd770-881a-0130-60aa-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "loam"@en .
+<http://boden-chem.iqvoc.net/65bcd770-881a-0130-60aa-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "L"@de .
+<http://boden-chem.iqvoc.net/65bcd770-881a-0130-60aa-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bce6b0-881a-0130-60ab-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bce6b0-881a-0130-60ab-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leitfähigkeit"@de .
+<http://boden-chem.iqvoc.net/65bce6b0-881a-0130-60ab-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "conductivity"@en .
+<http://boden-chem.iqvoc.net/65bce6b0-881a-0130-60ab-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bcf5e0-881a-0130-60ac-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bcf5e0-881a-0130-60ac-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mittellehm"@de .
+<http://boden-chem.iqvoc.net/65bcf5e0-881a-0130-60ac-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "middle loam"@en .
+<http://boden-chem.iqvoc.net/65bcf5e0-881a-0130-60ac-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd04c0-881a-0130-60ad-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd04c0-881a-0130-60ad-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mittelsand"@de .
+<http://boden-chem.iqvoc.net/65bd04c0-881a-0130-60ad-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "medium sand"@en .
+<http://boden-chem.iqvoc.net/65bd04c0-881a-0130-60ad-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd13e0-881a-0130-60ae-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd13e0-881a-0130-60ae-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mittelschluff"@de .
+<http://boden-chem.iqvoc.net/65bd13e0-881a-0130-60ae-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "medium silt"@en .
+<http://boden-chem.iqvoc.net/65bd13e0-881a-0130-60ae-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd2340-881a-0130-60af-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd2340-881a-0130-60af-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mittelton"@de .
+<http://boden-chem.iqvoc.net/65bd2340-881a-0130-60af-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "medium clay"@en .
+<http://boden-chem.iqvoc.net/65bd2340-881a-0130-60af-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd32e0-881a-0130-60b0-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd32e0-881a-0130-60b0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "pF-Wert"@de .
+<http://boden-chem.iqvoc.net/65bd32e0-881a-0130-60b0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "pF value"@en .
+<http://boden-chem.iqvoc.net/65bd32e0-881a-0130-60b0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd4ef0-881a-0130-60b1-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd4ef0-881a-0130-60b1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "POM-Fraktionierung"@de .
+<http://boden-chem.iqvoc.net/65bd4ef0-881a-0130-60b1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd5e00-881a-0130-60b2-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd5e00-881a-0130-60b2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Redoxpotenzial, Redoxpotential"@de .
+<http://boden-chem.iqvoc.net/65bd5e00-881a-0130-60b2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "redox potential"@en .
+<http://boden-chem.iqvoc.net/65bd5e00-881a-0130-60b2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd6d20-881a-0130-60b3-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd6d20-881a-0130-60b3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sand"@de .
+<http://boden-chem.iqvoc.net/65bd6d20-881a-0130-60b3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "sand"@en .
+<http://boden-chem.iqvoc.net/65bd6d20-881a-0130-60b3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "S"@de .
+<http://boden-chem.iqvoc.net/65bd6d20-881a-0130-60b3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd7c60-881a-0130-60b4-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd7c60-881a-0130-60b4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saugspannung"@de .
+<http://boden-chem.iqvoc.net/65bd7c60-881a-0130-60b4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil moisture tension, suction power"@en .
+<http://boden-chem.iqvoc.net/65bd7c60-881a-0130-60b4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd8b70-881a-0130-60b5-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd8b70-881a-0130-60b5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schluff"@de .
+<http://boden-chem.iqvoc.net/65bd8b70-881a-0130-60b5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "silt"@en .
+<http://boden-chem.iqvoc.net/65bd8b70-881a-0130-60b5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "U"@de .
+<http://boden-chem.iqvoc.net/65bd8b70-881a-0130-60b5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bd9aa0-881a-0130-60b6-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bd9aa0-881a-0130-60b6-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sickergeschwindigkeit"@de .
+<http://boden-chem.iqvoc.net/65bd9aa0-881a-0130-60b6-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "seepage rate"@en .
+<http://boden-chem.iqvoc.net/65bd9aa0-881a-0130-60b6-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bda990-881a-0130-60b7-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bda990-881a-0130-60b7-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sickerwasser"@de .
+<http://boden-chem.iqvoc.net/65bda990-881a-0130-60b7-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "seepage water, leachate"@en .
+<http://boden-chem.iqvoc.net/65bda990-881a-0130-60b7-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bdb8b0-881a-0130-60b8-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bdb8b0-881a-0130-60b8-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ton"@de .
+<http://boden-chem.iqvoc.net/65bdb8b0-881a-0130-60b8-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "clay"@en .
+<http://boden-chem.iqvoc.net/65bdb8b0-881a-0130-60b8-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "T"@de .
+<http://boden-chem.iqvoc.net/65bdb8b0-881a-0130-60b8-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bdcc20-881a-0130-60b9-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bdcc20-881a-0130-60b9-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trockenraumdichte"@de .
+<http://boden-chem.iqvoc.net/65bdcc20-881a-0130-60b9-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "dry bulk density"@en .
+<http://boden-chem.iqvoc.net/65bdcc20-881a-0130-60b9-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bde850-881a-0130-60ba-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bde850-881a-0130-60ba-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trockenrohdichte"@de .
+<http://boden-chem.iqvoc.net/65bde850-881a-0130-60ba-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "dry bulk density"@en .
+<http://boden-chem.iqvoc.net/65bde850-881a-0130-60ba-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65be0330-881a-0130-60bb-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65be0330-881a-0130-60bb-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trockensubstanz"@de .
+<http://boden-chem.iqvoc.net/65be0330-881a-0130-60bb-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "dry substance"@en .
+<http://boden-chem.iqvoc.net/65be0330-881a-0130-60bb-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65be1e50-881a-0130-60bc-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65be1e50-881a-0130-60bc-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verdichtung"@de .
+<http://boden-chem.iqvoc.net/65be1e50-881a-0130-60bc-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "compaction"@en .
+<http://boden-chem.iqvoc.net/65be1e50-881a-0130-60bc-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65be3990-881a-0130-60bd-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65be3990-881a-0130-60bd-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wassergehalt"@de .
+<http://boden-chem.iqvoc.net/65be3990-881a-0130-60bd-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "water content"@en .
+<http://boden-chem.iqvoc.net/65be3990-881a-0130-60bd-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65be55c0-881a-0130-60be-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65be55c0-881a-0130-60be-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasserhaushalt"@de .
+<http://boden-chem.iqvoc.net/65be55c0-881a-0130-60be-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "water balance"@en .
+<http://boden-chem.iqvoc.net/65be55c0-881a-0130-60be-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65be6f60-881a-0130-60bf-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65be6f60-881a-0130-60bf-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasserleitfähigkeit"@de .
+<http://boden-chem.iqvoc.net/65be6f60-881a-0130-60bf-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "water conductivity"@en .
+<http://boden-chem.iqvoc.net/65be6f60-881a-0130-60bf-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65be8940-881a-0130-60c0-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65be8940-881a-0130-60c0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wassertemperatur"@de .
+<http://boden-chem.iqvoc.net/65be8940-881a-0130-60c0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "water temperature"@en .
+<http://boden-chem.iqvoc.net/65be8940-881a-0130-60c0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/65bea370-881a-0130-60c1-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/65bea370-881a-0130-60c1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "spez. Leitfähigkeit (25°C)"@de .
+<http://boden-chem.iqvoc.net/65bea370-881a-0130-60c1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "specific conductiviy (25°C), EC"@en .
+<http://boden-chem.iqvoc.net/65bea370-881a-0130-60c1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenphysikalische-parameter> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenphysikalische Parameter"@de .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65ba7e60-881a-0130-6089-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bab2f0-881a-0130-608a-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bac5e0-881a-0130-608b-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bad570-881a-0130-608c-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bae4d0-881a-0130-608d-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65baf430-881a-0130-608e-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb0370-881a-0130-608f-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb12f0-881a-0130-6090-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb2280-881a-0130-6091-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb3cd0-881a-0130-6092-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb4c60-881a-0130-6093-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb5b90-881a-0130-6094-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb6a40-881a-0130-6095-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb79a0-881a-0130-6096-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb89b0-881a-0130-6097-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bb98c0-881a-0130-6098-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bba7e0-881a-0130-6099-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bbb750-881a-0130-609a-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bbd1e0-881a-0130-609b-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bbee50-881a-0130-609c-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bbfdf0-881a-0130-609d-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc0d40-881a-0130-609e-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc2010-881a-0130-609f-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc2f40-881a-0130-60a0-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc3ee0-881a-0130-60a1-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc4e30-881a-0130-60a2-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc5d80-881a-0130-60a3-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc6de0-881a-0130-60a4-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc7d20-881a-0130-60a5-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc8e00-881a-0130-60a6-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bc9de0-881a-0130-60a7-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bcb8c0-881a-0130-60a8-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bcc820-881a-0130-60a9-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bcd770-881a-0130-60aa-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bce6b0-881a-0130-60ab-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bcf5e0-881a-0130-60ac-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd04c0-881a-0130-60ad-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd13e0-881a-0130-60ae-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd2340-881a-0130-60af-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd32e0-881a-0130-60b0-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd4ef0-881a-0130-60b1-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd5e00-881a-0130-60b2-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd6d20-881a-0130-60b3-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd7c60-881a-0130-60b4-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd8b70-881a-0130-60b5-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bd9aa0-881a-0130-60b6-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bda990-881a-0130-60b7-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bdb8b0-881a-0130-60b8-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bdcc20-881a-0130-60b9-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bde850-881a-0130-60ba-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65be0330-881a-0130-60bb-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65be1e50-881a-0130-60bc-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65be3990-881a-0130-60bd-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65be55c0-881a-0130-60be-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65be6f60-881a-0130-60bf-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65be8940-881a-0130-60c0-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/65bea370-881a-0130-60c1-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/d50975d0-881c-0130-60da-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d50975d0-881c-0130-60da-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collembolen"@de .
+<http://boden-chem.iqvoc.net/d50975d0-881c-0130-60da-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Springtails"@en .
+<http://boden-chem.iqvoc.net/d50975d0-881c-0130-60da-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#altLabel> "Springschwänze"@de .
+<http://boden-chem.iqvoc.net/d50975d0-881c-0130-60da-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d509b600-881c-0130-60db-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d509b600-881c-0130-60db-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenbakterien"@de .
+<http://boden-chem.iqvoc.net/d509b600-881c-0130-60db-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil bacteria"@en .
+<http://boden-chem.iqvoc.net/d509b600-881c-0130-60db-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d509c300-881c-0130-60dc-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d509c300-881c-0130-60dc-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenpilze"@de .
+<http://boden-chem.iqvoc.net/d509c300-881c-0130-60dc-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil fungi"@en .
+<http://boden-chem.iqvoc.net/d509c300-881c-0130-60dc-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d509cbb0-881c-0130-60dd-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d509cbb0-881c-0130-60dd-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikrobielle Aktivität"@de .
+<http://boden-chem.iqvoc.net/d509cbb0-881c-0130-60dd-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "microbial activity"@en .
+<http://boden-chem.iqvoc.net/d509cbb0-881c-0130-60dd-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d509d470-881c-0130-60de-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d509d470-881c-0130-60de-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikrobielle Diversität"@de .
+<http://boden-chem.iqvoc.net/d509d470-881c-0130-60de-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "microbial diversity"@en .
+<http://boden-chem.iqvoc.net/d509d470-881c-0130-60de-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d509dd40-881c-0130-60df-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d509dd40-881c-0130-60df-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nematoden"@de .
+<http://boden-chem.iqvoc.net/d509dd40-881c-0130-60df-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nematodes"@en .
+<http://boden-chem.iqvoc.net/d509dd40-881c-0130-60df-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d509e500-881c-0130-60e0-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d509e500-881c-0130-60e0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regenwurmaktivität"@de .
+<http://boden-chem.iqvoc.net/d509e500-881c-0130-60e0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Earthworm activity"@en .
+<http://boden-chem.iqvoc.net/d509e500-881c-0130-60e0-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d509ed40-881c-0130-60e1-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d509ed40-881c-0130-60e1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Katalaseaktivität"@de .
+<http://boden-chem.iqvoc.net/d509ed40-881c-0130-60e1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "catalase activity"@en .
+<http://boden-chem.iqvoc.net/d509ed40-881c-0130-60e1-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d509f690-881c-0130-60e2-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d509f690-881c-0130-60e2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mineralisation"@de .
+<http://boden-chem.iqvoc.net/d509f690-881c-0130-60e2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineralisation"@en .
+<http://boden-chem.iqvoc.net/d509f690-881c-0130-60e2-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d50a0420-881c-0130-60e3-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d50a0420-881c-0130-60e3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Streuabbau"@de .
+<http://boden-chem.iqvoc.net/d50a0420-881c-0130-60e3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "litter decompostion"@en .
+<http://boden-chem.iqvoc.net/d50a0420-881c-0130-60e3-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d50a12c0-881c-0130-60e4-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d50a12c0-881c-0130-60e4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fauna"@de .
+<http://boden-chem.iqvoc.net/d50a12c0-881c-0130-60e4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "fauna"@en .
+<http://boden-chem.iqvoc.net/d50a12c0-881c-0130-60e4-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/d50a1d70-881c-0130-60e5-64ce8f1047dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/d50a1d70-881c-0130-60e5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "Protease-Aktivität"@de .
+<http://boden-chem.iqvoc.net/d50a1d70-881c-0130-60e5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#prefLabel> "protease-activity"@en .
+<http://boden-chem.iqvoc.net/d50a1d70-881c-0130-60e5-64ce8f1047dc> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-chem.iqvoc.net/bodenbiologische-parameter> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-chem.iqvoc.net/scheme> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenbiologische Parameter"@de .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d50975d0-881c-0130-60da-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d509b600-881c-0130-60db-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d509c300-881c-0130-60dc-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d509cbb0-881c-0130-60dd-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d509d470-881c-0130-60de-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d509dd40-881c-0130-60df-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d509e500-881c-0130-60e0-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d509ed40-881c-0130-60e1-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d509f690-881c-0130-60e2-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d50a0420-881c-0130-60e3-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d50a12c0-881c-0130-60e4-64ce8f1047dc> .
+<http://boden-chem.iqvoc.net/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-chem.iqvoc.net/d50a1d70-881c-0130-60e5-64ce8f1047dc> .

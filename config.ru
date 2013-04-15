@@ -1,4 +1,4 @@
 # This file is used by Rack-based servers to start the application.
 
 require ::File.expand_path('../config/environment',  __FILE__)
-run Iqvoc::BodendatenChem::Application
+run Iqvoc::BodendatenParams::Application

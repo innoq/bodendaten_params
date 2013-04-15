@@ -4,4 +4,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Iqvoc::BodendatenChem::Application.load_tasks
+Iqvoc::BodendatenParams::Application.load_tasks
