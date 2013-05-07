@@ -1,0 +1,282 @@
+<http://boden-params.herokuapp.com/53b902f0-93df-0130-fe38-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b902f0-93df-0130-fe38-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aggregatstabilität"@de .
+<http://boden-params.herokuapp.com/53b902f0-93df-0130-fe38-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "aggregate stability"@en .
+<http://boden-params.herokuapp.com/53b902f0-93df-0130-fe38-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53b95f40-93df-0130-fe39-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b95f40-93df-0130-fe39-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenrohdichte"@de .
+<http://boden-params.herokuapp.com/53b95f40-93df-0130-fe39-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "bulk density"@en .
+<http://boden-params.herokuapp.com/53b95f40-93df-0130-fe39-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53b96fe0-93df-0130-fe3a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b96fe0-93df-0130-fe3a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lagerungsdichte"@de .
+<http://boden-params.herokuapp.com/53b96fe0-93df-0130-fe3a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "deposit density"@en .
+<http://boden-params.herokuapp.com/53b96fe0-93df-0130-fe3a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53b97ea0-93df-0130-fe3b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b97ea0-93df-0130-fe3b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ton"@de .
+<http://boden-params.herokuapp.com/53b97ea0-93df-0130-fe3b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "clay"@en .
+<http://boden-params.herokuapp.com/53b97ea0-93df-0130-fe3b-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "T"@de .
+<http://boden-params.herokuapp.com/53b97ea0-93df-0130-fe3b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53b98cc0-93df-0130-fe3c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b98cc0-93df-0130-fe3c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Klimatische Wasserbilanz"@de .
+<http://boden-params.herokuapp.com/53b98cc0-93df-0130-fe3c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "climatic water balance"@en .
+<http://boden-params.herokuapp.com/53b98cc0-93df-0130-fe3c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53b99b50-93df-0130-fe3d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b99b50-93df-0130-fe3d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grobton"@de .
+<http://boden-params.herokuapp.com/53b99b50-93df-0130-fe3d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse clay"@en .
+<http://boden-params.herokuapp.com/53b99b50-93df-0130-fe3d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53b9aa70-93df-0130-fe3e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b9aa70-93df-0130-fe3e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grobbodenanteil"@de .
+<http://boden-params.herokuapp.com/53b9aa70-93df-0130-fe3e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse fragments, stone content"@en .
+<http://boden-params.herokuapp.com/53b9aa70-93df-0130-fe3e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53b9b8e0-93df-0130-fe3f-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b9b8e0-93df-0130-fe3f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Groblehm"@de .
+<http://boden-params.herokuapp.com/53b9b8e0-93df-0130-fe3f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse loam"@en .
+<http://boden-params.herokuapp.com/53b9b8e0-93df-0130-fe3f-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53b9c7a0-93df-0130-fe40-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53b9c7a0-93df-0130-fe40-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grobsand"@de .
+<http://boden-params.herokuapp.com/53b9c7a0-93df-0130-fe40-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse sand"@en .
+<http://boden-params.herokuapp.com/53b9c7a0-93df-0130-fe40-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba00b0-93df-0130-fe41-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba00b0-93df-0130-fe41-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Grobschluff"@de .
+<http://boden-params.herokuapp.com/53ba00b0-93df-0130-fe41-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "coarse silt"@en .
+<http://boden-params.herokuapp.com/53ba00b0-93df-0130-fe41-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba1110-93df-0130-fe42-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba1110-93df-0130-fe42-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Verdichtung"@de .
+<http://boden-params.herokuapp.com/53ba1110-93df-0130-fe42-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "compaction"@en .
+<http://boden-params.herokuapp.com/53ba1110-93df-0130-fe42-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba20e0-93df-0130-fe43-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba20e0-93df-0130-fe43-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Leitfähigkeit"@de .
+<http://boden-params.herokuapp.com/53ba20e0-93df-0130-fe43-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "conductivity"@en .
+<http://boden-params.herokuapp.com/53ba20e0-93df-0130-fe43-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba32b0-93df-0130-fe44-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba32b0-93df-0130-fe44-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trockenraumdichte"@de .
+<http://boden-params.herokuapp.com/53ba32b0-93df-0130-fe44-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "dry bulk density"@en .
+<http://boden-params.herokuapp.com/53ba32b0-93df-0130-fe44-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba4410-93df-0130-fe45-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba4410-93df-0130-fe45-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trockenrohdichte"@de .
+<http://boden-params.herokuapp.com/53ba4410-93df-0130-fe45-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "dry raw density"@en .
+<http://boden-params.herokuapp.com/53ba4410-93df-0130-fe45-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba5330-93df-0130-fe46-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba5330-93df-0130-fe46-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Trockensubstanz"@de .
+<http://boden-params.herokuapp.com/53ba5330-93df-0130-fe46-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "dry substance"@en .
+<http://boden-params.herokuapp.com/53ba5330-93df-0130-fe46-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba6170-93df-0130-fe47-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba6170-93df-0130-fe47-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feldkapazität"@de .
+<http://boden-params.herokuapp.com/53ba6170-93df-0130-fe47-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "field capacity"@en .
+<http://boden-params.herokuapp.com/53ba6170-93df-0130-fe47-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba6fe0-93df-0130-fe48-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba6fe0-93df-0130-fe48-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinton"@de .
+<http://boden-params.herokuapp.com/53ba6fe0-93df-0130-fe48-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine clay"@en .
+<http://boden-params.herokuapp.com/53ba6fe0-93df-0130-fe48-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba7fe0-93df-0130-fe49-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba7fe0-93df-0130-fe49-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinlehm"@de .
+<http://boden-params.herokuapp.com/53ba7fe0-93df-0130-fe49-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine loam"@en .
+<http://boden-params.herokuapp.com/53ba7fe0-93df-0130-fe49-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53ba9780-93df-0130-fe4a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53ba9780-93df-0130-fe4a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feindurchwurzelung"@de .
+<http://boden-params.herokuapp.com/53ba9780-93df-0130-fe4a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine root penetration"@en .
+<http://boden-params.herokuapp.com/53ba9780-93df-0130-fe4a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53baa720-93df-0130-fe4b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53baa720-93df-0130-fe4b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinsand"@de .
+<http://boden-params.herokuapp.com/53baa720-93df-0130-fe4b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine sand"@en .
+<http://boden-params.herokuapp.com/53baa720-93df-0130-fe4b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53babaf0-93df-0130-fe4c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53babaf0-93df-0130-fe4c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinschluff"@de .
+<http://boden-params.herokuapp.com/53babaf0-93df-0130-fe4c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine silt"@en .
+<http://boden-params.herokuapp.com/53babaf0-93df-0130-fe4c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bacb80-93df-0130-fe4d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bacb80-93df-0130-fe4d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Feinbodenvorrat"@de .
+<http://boden-params.herokuapp.com/53bacb80-93df-0130-fe4d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "fine soil stock, amount of fine earth"@en .
+<http://boden-params.herokuapp.com/53bacb80-93df-0130-fe4d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53badbb0-93df-0130-fe4e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53badbb0-93df-0130-fe4e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humusbilanz"@de .
+<http://boden-params.herokuapp.com/53badbb0-93df-0130-fe4e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus balance"@en .
+<http://boden-params.herokuapp.com/53badbb0-93df-0130-fe4e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53baee80-93df-0130-fe4f-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53baee80-93df-0130-fe4f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humusgehalt"@de .
+<http://boden-params.herokuapp.com/53baee80-93df-0130-fe4f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus content"@en .
+<http://boden-params.herokuapp.com/53baee80-93df-0130-fe4f-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bafde0-93df-0130-fe50-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bafde0-93df-0130-fe50-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humusfraktionen"@de .
+<http://boden-params.herokuapp.com/53bafde0-93df-0130-fe50-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus fraction"@en .
+<http://boden-params.herokuapp.com/53bafde0-93df-0130-fe50-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb0cf0-93df-0130-fe51-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb0cf0-93df-0130-fe51-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humusvorräte"@de .
+<http://boden-params.herokuapp.com/53bb0cf0-93df-0130-fe51-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "humus stock"@en .
+<http://boden-params.herokuapp.com/53bb0cf0-93df-0130-fe51-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb1cc0-93df-0130-fe52-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb1cc0-93df-0130-fe52-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Infiltrationsrate"@de .
+<http://boden-params.herokuapp.com/53bb1cc0-93df-0130-fe52-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "infiltration rate"@en .
+<http://boden-params.herokuapp.com/53bb1cc0-93df-0130-fe52-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb2b90-93df-0130-fe53-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb2b90-93df-0130-fe53-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lehm"@de .
+<http://boden-params.herokuapp.com/53bb2b90-93df-0130-fe53-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "loam"@en .
+<http://boden-params.herokuapp.com/53bb2b90-93df-0130-fe53-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "L"@de .
+<http://boden-params.herokuapp.com/53bb2b90-93df-0130-fe53-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb3c90-93df-0130-fe54-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb3c90-93df-0130-fe54-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mittelton"@de .
+<http://boden-params.herokuapp.com/53bb3c90-93df-0130-fe54-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "medium clay"@en .
+<http://boden-params.herokuapp.com/53bb3c90-93df-0130-fe54-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb4ec0-93df-0130-fe55-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb4ec0-93df-0130-fe55-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mittelsand"@de .
+<http://boden-params.herokuapp.com/53bb4ec0-93df-0130-fe55-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "medium sand"@en .
+<http://boden-params.herokuapp.com/53bb4ec0-93df-0130-fe55-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb5eb0-93df-0130-fe56-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb5eb0-93df-0130-fe56-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mittelschluff"@de .
+<http://boden-params.herokuapp.com/53bb5eb0-93df-0130-fe56-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "medium silt"@en .
+<http://boden-params.herokuapp.com/53bb5eb0-93df-0130-fe56-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb6f20-93df-0130-fe57-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb6f20-93df-0130-fe57-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Humushaushalt"@de .
+<http://boden-params.herokuapp.com/53bb6f20-93df-0130-fe57-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "organic matter content"@en .
+<http://boden-params.herokuapp.com/53bb6f20-93df-0130-fe57-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb7f00-93df-0130-fe58-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb7f00-93df-0130-fe58-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kornfeuchtigkeit"@de .
+<http://boden-params.herokuapp.com/53bb7f00-93df-0130-fe58-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "particle moisture"@en .
+<http://boden-params.herokuapp.com/53bb7f00-93df-0130-fe58-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb8f60-93df-0130-fe59-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb8f60-93df-0130-fe59-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korngröße"@de .
+<http://boden-params.herokuapp.com/53bb8f60-93df-0130-fe59-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "particle size"@en .
+<http://boden-params.herokuapp.com/53bb8f60-93df-0130-fe59-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bb9f20-93df-0130-fe5a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bb9f20-93df-0130-fe5a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Korngrößenverteilung"@de .
+<http://boden-params.herokuapp.com/53bb9f20-93df-0130-fe5a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "particle size distribution"@en .
+<http://boden-params.herokuapp.com/53bb9f20-93df-0130-fe5a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bbaf90-93df-0130-fe5b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bbaf90-93df-0130-fe5b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "pF-Wert"@de .
+<http://boden-params.herokuapp.com/53bbaf90-93df-0130-fe5b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "pF value"@en .
+<http://boden-params.herokuapp.com/53bbaf90-93df-0130-fe5b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bbc140-93df-0130-fe5c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bbc140-93df-0130-fe5c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sand"@de .
+<http://boden-params.herokuapp.com/53bbc140-93df-0130-fe5c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "sand"@en .
+<http://boden-params.herokuapp.com/53bbc140-93df-0130-fe5c-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "S"@de .
+<http://boden-params.herokuapp.com/53bbc140-93df-0130-fe5c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bbd290-93df-0130-fe5d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bbd290-93df-0130-fe5d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sickergeschwindigkeit"@de .
+<http://boden-params.herokuapp.com/53bbd290-93df-0130-fe5d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "seepage rate"@en .
+<http://boden-params.herokuapp.com/53bbd290-93df-0130-fe5d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bbe320-93df-0130-fe5e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bbe320-93df-0130-fe5e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sickerwasser"@de .
+<http://boden-params.herokuapp.com/53bbe320-93df-0130-fe5e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "seepage water, leachate"@en .
+<http://boden-params.herokuapp.com/53bbe320-93df-0130-fe5e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bbf450-93df-0130-fe5f-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bbf450-93df-0130-fe5f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schluff"@de .
+<http://boden-params.herokuapp.com/53bbf450-93df-0130-fe5f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "silt"@en .
+<http://boden-params.herokuapp.com/53bbf450-93df-0130-fe5f-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "U"@de .
+<http://boden-params.herokuapp.com/53bbf450-93df-0130-fe5f-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc0340-93df-0130-fe60-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc0340-93df-0130-fe60-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodentragfähigkeit"@de .
+<http://boden-params.herokuapp.com/53bc0340-93df-0130-fe60-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil bearing capacity"@en .
+<http://boden-params.herokuapp.com/53bc0340-93df-0130-fe60-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc1280-93df-0130-fe61-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc1280-93df-0130-fe61-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenfruchtbarkeit"@de .
+<http://boden-params.herokuapp.com/53bc1280-93df-0130-fe61-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil fertility"@en .
+<http://boden-params.herokuapp.com/53bc1280-93df-0130-fe61-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc2140-93df-0130-fe62-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc2140-93df-0130-fe62-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenfeuchte"@de .
+<http://boden-params.herokuapp.com/53bc2140-93df-0130-fe62-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil moisture"@en .
+<http://boden-params.herokuapp.com/53bc2140-93df-0130-fe62-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc30b0-93df-0130-fe63-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc30b0-93df-0130-fe63-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Saugspannung"@de .
+<http://boden-params.herokuapp.com/53bc30b0-93df-0130-fe63-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil moisture tension, suction power"@en .
+<http://boden-params.herokuapp.com/53bc30b0-93df-0130-fe63-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc4190-93df-0130-fe64-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc4190-93df-0130-fe64-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodensickerwasser"@de .
+<http://boden-params.herokuapp.com/53bc4190-93df-0130-fe64-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil seepage water, soil leachate"@en .
+<http://boden-params.herokuapp.com/53bc4190-93df-0130-fe64-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc5330-93df-0130-fe65-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc5330-93df-0130-fe65-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodengefüge"@de .
+<http://boden-params.herokuapp.com/53bc5330-93df-0130-fe65-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Soil structure"@en .
+<http://boden-params.herokuapp.com/53bc5330-93df-0130-fe65-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc64c0-93df-0130-fe66-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc64c0-93df-0130-fe66-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodentemperatur"@de .
+<http://boden-params.herokuapp.com/53bc64c0-93df-0130-fe66-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil temperature"@en .
+<http://boden-params.herokuapp.com/53bc64c0-93df-0130-fe66-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc7650-93df-0130-fe67-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc7650-93df-0130-fe67-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Körnungsart"@de .
+<http://boden-params.herokuapp.com/53bc7650-93df-0130-fe67-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil texture"@en .
+<http://boden-params.herokuapp.com/53bc7650-93df-0130-fe67-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc8710-93df-0130-fe68-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc8710-93df-0130-fe68-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenwasser"@de .
+<http://boden-params.herokuapp.com/53bc8710-93df-0130-fe68-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil water"@en .
+<http://boden-params.herokuapp.com/53bc8710-93df-0130-fe68-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bc97d0-93df-0130-fe69-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bc97d0-93df-0130-fe69-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Festsubstanzdichte"@de .
+<http://boden-params.herokuapp.com/53bc97d0-93df-0130-fe69-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "solid substance density"@en .
+<http://boden-params.herokuapp.com/53bc97d0-93df-0130-fe69-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bca930-93df-0130-fe6a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bca930-93df-0130-fe6a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "spez. Leitfähigkeit (25°C)"@de .
+<http://boden-params.herokuapp.com/53bca930-93df-0130-fe6a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "specific conductiviy (25°C), EC"@en .
+<http://boden-params.herokuapp.com/53bca930-93df-0130-fe6a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bcbbe0-93df-0130-fe6b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bcbbe0-93df-0130-fe6b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasserhaushalt"@de .
+<http://boden-params.herokuapp.com/53bcbbe0-93df-0130-fe6b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "water balance"@en .
+<http://boden-params.herokuapp.com/53bcbbe0-93df-0130-fe6b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bccce0-93df-0130-fe6c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bccce0-93df-0130-fe6c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasserleitfähigkeit"@de .
+<http://boden-params.herokuapp.com/53bccce0-93df-0130-fe6c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "water conductivity"@en .
+<http://boden-params.herokuapp.com/53bccce0-93df-0130-fe6c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bcdea0-93df-0130-fe6d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bcdea0-93df-0130-fe6d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wassergehalt"@de .
+<http://boden-params.herokuapp.com/53bcdea0-93df-0130-fe6d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "water content"@en .
+<http://boden-params.herokuapp.com/53bcdea0-93df-0130-fe6d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/53bcef50-93df-0130-fe6e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/53bcef50-93df-0130-fe6e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wassertemperatur"@de .
+<http://boden-params.herokuapp.com/53bcef50-93df-0130-fe6e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "water temperature"@en .
+<http://boden-params.herokuapp.com/53bcef50-93df-0130-fe6e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenphysikalische-parameter> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-params.herokuapp.com/scheme> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenphysikalische Parameter"@de .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b902f0-93df-0130-fe38-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b95f40-93df-0130-fe39-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b96fe0-93df-0130-fe3a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b97ea0-93df-0130-fe3b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b98cc0-93df-0130-fe3c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b99b50-93df-0130-fe3d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b9aa70-93df-0130-fe3e-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b9b8e0-93df-0130-fe3f-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53b9c7a0-93df-0130-fe40-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba00b0-93df-0130-fe41-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba1110-93df-0130-fe42-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba20e0-93df-0130-fe43-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba32b0-93df-0130-fe44-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba4410-93df-0130-fe45-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba5330-93df-0130-fe46-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba6170-93df-0130-fe47-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba6fe0-93df-0130-fe48-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba7fe0-93df-0130-fe49-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53ba9780-93df-0130-fe4a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53baa720-93df-0130-fe4b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53babaf0-93df-0130-fe4c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bacb80-93df-0130-fe4d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53badbb0-93df-0130-fe4e-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53baee80-93df-0130-fe4f-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bafde0-93df-0130-fe50-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb0cf0-93df-0130-fe51-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb1cc0-93df-0130-fe52-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb2b90-93df-0130-fe53-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb3c90-93df-0130-fe54-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb4ec0-93df-0130-fe55-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb5eb0-93df-0130-fe56-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb6f20-93df-0130-fe57-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb7f00-93df-0130-fe58-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb8f60-93df-0130-fe59-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bb9f20-93df-0130-fe5a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bbaf90-93df-0130-fe5b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bbc140-93df-0130-fe5c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bbd290-93df-0130-fe5d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bbe320-93df-0130-fe5e-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bbf450-93df-0130-fe5f-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc0340-93df-0130-fe60-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc1280-93df-0130-fe61-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc2140-93df-0130-fe62-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc30b0-93df-0130-fe63-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc4190-93df-0130-fe64-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc5330-93df-0130-fe65-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc64c0-93df-0130-fe66-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc7650-93df-0130-fe67-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc8710-93df-0130-fe68-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bc97d0-93df-0130-fe69-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bca930-93df-0130-fe6a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bcbbe0-93df-0130-fe6b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bccce0-93df-0130-fe6c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bcdea0-93df-0130-fe6d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenphysikalische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/53bcef50-93df-0130-fe6e-482a1437a069> .

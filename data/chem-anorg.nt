@@ -1,0 +1,392 @@
+<http://boden-params.herokuapp.com/70297d40-990c-0130-2031-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/70297d40-990c-0130-2031-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aluminium"@de .
+<http://boden-params.herokuapp.com/70297d40-990c-0130-2031-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aluminum, Aluminium"@en .
+<http://boden-params.herokuapp.com/70297d40-990c-0130-2031-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Al"@de .
+<http://boden-params.herokuapp.com/70297d40-990c-0130-2031-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/7029b9f0-990c-0130-2032-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/7029b9f0-990c-0130-2032-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ammonium"@de .
+<http://boden-params.herokuapp.com/7029b9f0-990c-0130-2032-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Ammonium"@en .
+<http://boden-params.herokuapp.com/7029b9f0-990c-0130-2032-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "NH4"@de .
+<http://boden-params.herokuapp.com/7029b9f0-990c-0130-2032-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/7029cd00-990c-0130-2033-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/7029cd00-990c-0130-2033-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganischer Kohlenstoff"@de .
+<http://boden-params.herokuapp.com/7029cd00-990c-0130-2033-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inorganic Carbon"@en .
+<http://boden-params.herokuapp.com/7029cd00-990c-0130-2033-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "IC"@de .
+<http://boden-params.herokuapp.com/7029cd00-990c-0130-2033-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/7029dc90-990c-0130-2034-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/7029dc90-990c-0130-2034-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "anorganischer Stickstoff"@de .
+<http://boden-params.herokuapp.com/7029dc90-990c-0130-2034-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Inorganic Nitrogen"@en .
+<http://boden-params.herokuapp.com/7029dc90-990c-0130-2034-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "IN"@de .
+<http://boden-params.herokuapp.com/7029dc90-990c-0130-2034-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/7029e9c0-990c-0130-2035-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/7029e9c0-990c-0130-2035-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antimon"@de .
+<http://boden-params.herokuapp.com/7029e9c0-990c-0130-2035-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Antimony"@en .
+<http://boden-params.herokuapp.com/7029e9c0-990c-0130-2035-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Sb"@de .
+<http://boden-params.herokuapp.com/7029e9c0-990c-0130-2035-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/7029f6f0-990c-0130-2036-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/7029f6f0-990c-0130-2036-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arsen"@de .
+<http://boden-params.herokuapp.com/7029f6f0-990c-0130-2036-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Arsenic"@en .
+<http://boden-params.herokuapp.com/7029f6f0-990c-0130-2036-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "As"@de .
+<http://boden-params.herokuapp.com/7029f6f0-990c-0130-2036-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a0420-990c-0130-2037-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a0420-990c-0130-2037-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barium"@de .
+<http://boden-params.herokuapp.com/702a0420-990c-0130-2037-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Barium"@en .
+<http://boden-params.herokuapp.com/702a0420-990c-0130-2037-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Ba"@de .
+<http://boden-params.herokuapp.com/702a0420-990c-0130-2037-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a1210-990c-0130-2038-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a1210-990c-0130-2038-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Blei"@de .
+<http://boden-params.herokuapp.com/702a1210-990c-0130-2038-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lead"@en .
+<http://boden-params.herokuapp.com/702a1210-990c-0130-2038-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Pb"@de .
+<http://boden-params.herokuapp.com/702a1210-990c-0130-2038-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a1fe0-990c-0130-2039-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a1fe0-990c-0130-2039-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bor"@de .
+<http://boden-params.herokuapp.com/702a1fe0-990c-0130-2039-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Boron"@en .
+<http://boden-params.herokuapp.com/702a1fe0-990c-0130-2039-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "B"@de .
+<http://boden-params.herokuapp.com/702a1fe0-990c-0130-2039-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a3000-990c-0130-203a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a3000-990c-0130-203a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cadmium"@de .
+<http://boden-params.herokuapp.com/702a3000-990c-0130-203a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cadmium"@en .
+<http://boden-params.herokuapp.com/702a3000-990c-0130-203a-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Cd"@de .
+<http://boden-params.herokuapp.com/702a3000-990c-0130-203a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a3e40-990c-0130-203b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a3e40-990c-0130-203b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caesium"@de .
+<http://boden-params.herokuapp.com/702a3e40-990c-0130-203b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Caesium"@en .
+<http://boden-params.herokuapp.com/702a3e40-990c-0130-203b-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Cs"@de .
+<http://boden-params.herokuapp.com/702a3e40-990c-0130-203b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a4dc0-990c-0130-203c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a4dc0-990c-0130-203c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calcium"@de .
+<http://boden-params.herokuapp.com/702a4dc0-990c-0130-203c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calcium"@en .
+<http://boden-params.herokuapp.com/702a4dc0-990c-0130-203c-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Ca"@de .
+<http://boden-params.herokuapp.com/702a4dc0-990c-0130-203c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a5b50-990c-0130-203d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a5b50-990c-0130-203d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calciumcarbonat"@de .
+<http://boden-params.herokuapp.com/702a5b50-990c-0130-203d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calcium carbonate"@en .
+<http://boden-params.herokuapp.com/702a5b50-990c-0130-203d-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "CaCO3"@de .
+<http://boden-params.herokuapp.com/702a5b50-990c-0130-203d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a6880-990c-0130-203e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a6880-990c-0130-203e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calciumchlorid"@de .
+<http://boden-params.herokuapp.com/702a6880-990c-0130-203e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Calcium chloride"@en .
+<http://boden-params.herokuapp.com/702a6880-990c-0130-203e-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "CaCl2"@de .
+<http://boden-params.herokuapp.com/702a6880-990c-0130-203e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a7580-990c-0130-203f-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a7580-990c-0130-203f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chlorid"@de .
+<http://boden-params.herokuapp.com/702a7580-990c-0130-203f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chloride"@en .
+<http://boden-params.herokuapp.com/702a7580-990c-0130-203f-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Cl"@de .
+<http://boden-params.herokuapp.com/702a7580-990c-0130-203f-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a8280-990c-0130-2040-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a8280-990c-0130-2040-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chrom"@de .
+<http://boden-params.herokuapp.com/702a8280-990c-0130-2040-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Chromium"@en .
+<http://boden-params.herokuapp.com/702a8280-990c-0130-2040-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Cr"@de .
+<http://boden-params.herokuapp.com/702a8280-990c-0130-2040-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a90f0-990c-0130-2041-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a90f0-990c-0130-2041-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "effektive Kationaustauschkapazität"@de .
+<http://boden-params.herokuapp.com/702a90f0-990c-0130-2041-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Effective Cation-exchange capacity"@en .
+<http://boden-params.herokuapp.com/702a90f0-990c-0130-2041-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "KAKeff, Ake"@de .
+<http://boden-params.herokuapp.com/702a90f0-990c-0130-2041-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702a9ed0-990c-0130-2042-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702a9ed0-990c-0130-2042-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Eisen"@de .
+<http://boden-params.herokuapp.com/702a9ed0-990c-0130-2042-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Iron"@en .
+<http://boden-params.herokuapp.com/702a9ed0-990c-0130-2042-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Fe"@de .
+<http://boden-params.herokuapp.com/702a9ed0-990c-0130-2042-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702aad00-990c-0130-2043-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702aad00-990c-0130-2043-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "elektrische Leitfähigkeit, Kunduktivität"@de .
+<http://boden-params.herokuapp.com/702aad00-990c-0130-2043-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Electrical resistivity, conductivity"@en .
+<http://boden-params.herokuapp.com/702aad00-990c-0130-2043-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702abb00-990c-0130-2044-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702abb00-990c-0130-2044-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fluorid"@de .
+<http://boden-params.herokuapp.com/702abb00-990c-0130-2044-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Flouride"@en .
+<http://boden-params.herokuapp.com/702abb00-990c-0130-2044-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702ac8b0-990c-0130-2045-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702ac8b0-990c-0130-2045-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelöster anorganischer Kohlenstoff"@de .
+<http://boden-params.herokuapp.com/702ac8b0-990c-0130-2045-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dissolved Inorganic Carbon"@en .
+<http://boden-params.herokuapp.com/702ac8b0-990c-0130-2045-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "DIC"@de .
+<http://boden-params.herokuapp.com/702ac8b0-990c-0130-2045-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702ad7f0-990c-0130-2046-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702ad7f0-990c-0130-2046-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "gelöster anorganischer Stickstoff"@de .
+<http://boden-params.herokuapp.com/702ad7f0-990c-0130-2046-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Dissolved Inorganic Nitrogen"@en .
+<http://boden-params.herokuapp.com/702ad7f0-990c-0130-2046-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "DIN"@de .
+<http://boden-params.herokuapp.com/702ad7f0-990c-0130-2046-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702ae780-990c-0130-2047-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702ae780-990c-0130-2047-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesamter anorganischer Kohlenstoff"@de .
+<http://boden-params.herokuapp.com/702ae780-990c-0130-2047-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Inorganic Carbon"@en .
+<http://boden-params.herokuapp.com/702ae780-990c-0130-2047-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "TIC"@de .
+<http://boden-params.herokuapp.com/702ae780-990c-0130-2047-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702af610-990c-0130-2048-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702af610-990c-0130-2048-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "gesamter anorganischer Stickstoff"@de .
+<http://boden-params.herokuapp.com/702af610-990c-0130-2048-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Totoal Organic Nitrogen"@en .
+<http://boden-params.herokuapp.com/702af610-990c-0130-2048-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "TIN"@de .
+<http://boden-params.herokuapp.com/702af610-990c-0130-2048-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b0480-990c-0130-2049-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b0480-990c-0130-2049-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtkohlenstoff"@de .
+<http://boden-params.herokuapp.com/702b0480-990c-0130-2049-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Carbon"@en .
+<http://boden-params.herokuapp.com/702b0480-990c-0130-2049-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "TC"@de .
+<http://boden-params.herokuapp.com/702b0480-990c-0130-2049-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b1500-990c-0130-204a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b1500-990c-0130-204a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Gesamtstickstoff"@de .
+<http://boden-params.herokuapp.com/702b1500-990c-0130-204a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Total Nitrogen"@en .
+<http://boden-params.herokuapp.com/702b1500-990c-0130-204a-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "TN"@de .
+<http://boden-params.herokuapp.com/702b1500-990c-0130-204a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b2370-990c-0130-204b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b2370-990c-0130-204b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalium"@de .
+<http://boden-params.herokuapp.com/702b2370-990c-0130-204b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potassium"@en .
+<http://boden-params.herokuapp.com/702b2370-990c-0130-204b-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "K"@de .
+<http://boden-params.herokuapp.com/702b2370-990c-0130-204b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b31b0-990c-0130-204c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b31b0-990c-0130-204c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kaliumchlorid"@de .
+<http://boden-params.herokuapp.com/702b31b0-990c-0130-204c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potassium chloride"@en .
+<http://boden-params.herokuapp.com/702b31b0-990c-0130-204c-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "KCl"@de .
+<http://boden-params.herokuapp.com/702b31b0-990c-0130-204c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b4010-990c-0130-204d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b4010-990c-0130-204d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalk"@de .
+<http://boden-params.herokuapp.com/702b4010-990c-0130-204d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lime"@en .
+<http://boden-params.herokuapp.com/702b4010-990c-0130-204d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b4df0-990c-0130-204e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b4df0-990c-0130-204e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kalkgehalt"@de .
+<http://boden-params.herokuapp.com/702b4df0-990c-0130-204e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Lime content"@en .
+<http://boden-params.herokuapp.com/702b4df0-990c-0130-204e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b5ca0-990c-0130-204f-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b5ca0-990c-0130-204f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Karbonatgehalt"@de .
+<http://boden-params.herokuapp.com/702b5ca0-990c-0130-204f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbonate content"@en .
+<http://boden-params.herokuapp.com/702b5ca0-990c-0130-204f-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b6a90-990c-0130-2050-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b6a90-990c-0130-2050-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kationaustauschkapazität"@de .
+<http://boden-params.herokuapp.com/702b6a90-990c-0130-2050-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cation-exchange capacity"@en .
+<http://boden-params.herokuapp.com/702b6a90-990c-0130-2050-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "KAK, T-Wert"@de .
+<http://boden-params.herokuapp.com/702b6a90-990c-0130-2050-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b78c0-990c-0130-2051-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b78c0-990c-0130-2051-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kationen"@de .
+<http://boden-params.herokuapp.com/702b78c0-990c-0130-2051-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cations"@en .
+<http://boden-params.herokuapp.com/702b78c0-990c-0130-2051-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b87f0-990c-0130-2052-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b87f0-990c-0130-2052-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kobalt"@de .
+<http://boden-params.herokuapp.com/702b87f0-990c-0130-2052-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Cobalt"@en .
+<http://boden-params.herokuapp.com/702b87f0-990c-0130-2052-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Co"@de .
+<http://boden-params.herokuapp.com/702b87f0-990c-0130-2052-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702b96a0-990c-0130-2053-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702b96a0-990c-0130-2053-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoffbilanz"@de .
+<http://boden-params.herokuapp.com/702b96a0-990c-0130-2053-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon balance"@en .
+<http://boden-params.herokuapp.com/702b96a0-990c-0130-2053-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702ba4d0-990c-0130-2054-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702ba4d0-990c-0130-2054-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoffflüsse"@de .
+<http://boden-params.herokuapp.com/702ba4d0-990c-0130-2054-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon flows"@en .
+<http://boden-params.herokuapp.com/702ba4d0-990c-0130-2054-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702bb3f0-990c-0130-2055-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702bb3f0-990c-0130-2055-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kohlenstoffimmobilisierung"@de .
+<http://boden-params.herokuapp.com/702bb3f0-990c-0130-2055-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Carbon immobilisation"@en .
+<http://boden-params.herokuapp.com/702bb3f0-990c-0130-2055-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702bc690-990c-0130-2056-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702bc690-990c-0130-2056-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Königswasser"@de .
+<http://boden-params.herokuapp.com/702bc690-990c-0130-2056-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aqua regia"@en .
+<http://boden-params.herokuapp.com/702bc690-990c-0130-2056-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702bd500-990c-0130-2057-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702bd500-990c-0130-2057-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Königswasseraufschluss"@de .
+<http://boden-params.herokuapp.com/702bd500-990c-0130-2057-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aqua regia digestion"@en .
+<http://boden-params.herokuapp.com/702bd500-990c-0130-2057-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702be3b0-990c-0130-2058-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702be3b0-990c-0130-2058-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Königswasserextrakt"@de .
+<http://boden-params.herokuapp.com/702be3b0-990c-0130-2058-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Aqua regia extract"@en .
+<http://boden-params.herokuapp.com/702be3b0-990c-0130-2058-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702bf190-990c-0130-2059-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702bf190-990c-0130-2059-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Kupfer"@de .
+<http://boden-params.herokuapp.com/702bf190-990c-0130-2059-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Copper"@en .
+<http://boden-params.herokuapp.com/702bf190-990c-0130-2059-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Cu"@de .
+<http://boden-params.herokuapp.com/702bf190-990c-0130-2059-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702bffa0-990c-0130-205a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702bffa0-990c-0130-205a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magnesium"@de .
+<http://boden-params.herokuapp.com/702bffa0-990c-0130-205a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Magnesium"@en .
+<http://boden-params.herokuapp.com/702bffa0-990c-0130-205a-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Mg"@de .
+<http://boden-params.herokuapp.com/702bffa0-990c-0130-205a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c0df0-990c-0130-205b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c0df0-990c-0130-205b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mangan"@de .
+<http://boden-params.herokuapp.com/702c0df0-990c-0130-205b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Manganese"@en .
+<http://boden-params.herokuapp.com/702c0df0-990c-0130-205b-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Mn"@de .
+<http://boden-params.herokuapp.com/702c0df0-990c-0130-205b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c1d10-990c-0130-205c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c1d10-990c-0130-205c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "MIR-Spektren"@de .
+<http://boden-params.herokuapp.com/702c1d10-990c-0130-205c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "MIR spectra"@en .
+<http://boden-params.herokuapp.com/702c1d10-990c-0130-205c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c2c40-990c-0130-205d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c2c40-990c-0130-205d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nährstoffgehalte"@de .
+<http://boden-params.herokuapp.com/702c2c40-990c-0130-205d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "nutrient loads, nutrient content"@en .
+<http://boden-params.herokuapp.com/702c2c40-990c-0130-205d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c3bb0-990c-0130-205e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c3bb0-990c-0130-205e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Natrium"@de .
+<http://boden-params.herokuapp.com/702c3bb0-990c-0130-205e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sodium"@en .
+<http://boden-params.herokuapp.com/702c3bb0-990c-0130-205e-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Na"@de .
+<http://boden-params.herokuapp.com/702c3bb0-990c-0130-205e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c48c0-990c-0130-205f-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c48c0-990c-0130-205f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nickel"@de .
+<http://boden-params.herokuapp.com/702c48c0-990c-0130-205f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nickel"@en .
+<http://boden-params.herokuapp.com/702c48c0-990c-0130-205f-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Ni"@de .
+<http://boden-params.herokuapp.com/702c48c0-990c-0130-205f-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c55b0-990c-0130-2060-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c55b0-990c-0130-2060-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrat"@de .
+<http://boden-params.herokuapp.com/702c55b0-990c-0130-2060-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrate"@en .
+<http://boden-params.herokuapp.com/702c55b0-990c-0130-2060-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "NO3"@de .
+<http://boden-params.herokuapp.com/702c55b0-990c-0130-2060-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c6340-990c-0130-2061-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c6340-990c-0130-2061-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrit"@de .
+<http://boden-params.herokuapp.com/702c6340-990c-0130-2061-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrite"@en .
+<http://boden-params.herokuapp.com/702c6340-990c-0130-2061-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "NO2"@de .
+<http://boden-params.herokuapp.com/702c6340-990c-0130-2061-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c7040-990c-0130-2062-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c7040-990c-0130-2062-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "N-Tiefenverlagerung"@de .
+<http://boden-params.herokuapp.com/702c7040-990c-0130-2062-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "N-depth displacement"@en .
+<http://boden-params.herokuapp.com/702c7040-990c-0130-2062-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c7d40-990c-0130-2063-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c7d40-990c-0130-2063-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphat"@de .
+<http://boden-params.herokuapp.com/702c7d40-990c-0130-2063-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphate"@en .
+<http://boden-params.herokuapp.com/702c7d40-990c-0130-2063-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "PO4"@de .
+<http://boden-params.herokuapp.com/702c7d40-990c-0130-2063-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c8c10-990c-0130-2064-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c8c10-990c-0130-2064-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphor"@de .
+<http://boden-params.herokuapp.com/702c8c10-990c-0130-2064-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Phosphorus"@en .
+<http://boden-params.herokuapp.com/702c8c10-990c-0130-2064-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "P"@de .
+<http://boden-params.herokuapp.com/702c8c10-990c-0130-2064-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702c9af0-990c-0130-2065-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702c9af0-990c-0130-2065-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "pH-Wert, pH"@de .
+<http://boden-params.herokuapp.com/702c9af0-990c-0130-2065-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "pH value"@en .
+<http://boden-params.herokuapp.com/702c9af0-990c-0130-2065-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702caa50-990c-0130-2066-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702caa50-990c-0130-2066-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "potentielle Kationaustauschkapazität"@de .
+<http://boden-params.herokuapp.com/702caa50-990c-0130-2066-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Potential Cation-exchange capacity"@en .
+<http://boden-params.herokuapp.com/702caa50-990c-0130-2066-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "KAKpot, Akt"@de .
+<http://boden-params.herokuapp.com/702caa50-990c-0130-2066-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702cb9c0-990c-0130-2067-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702cb9c0-990c-0130-2067-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Quecksilber"@de .
+<http://boden-params.herokuapp.com/702cb9c0-990c-0130-2067-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mercury"@en .
+<http://boden-params.herokuapp.com/702cb9c0-990c-0130-2067-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Hg"@de .
+<http://boden-params.herokuapp.com/702cb9c0-990c-0130-2067-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702cc7f0-990c-0130-2068-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702cc7f0-990c-0130-2068-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Redoxpotenzial, Redoxpotential"@de .
+<http://boden-params.herokuapp.com/702cc7f0-990c-0130-2068-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "redox potential"@en .
+<http://boden-params.herokuapp.com/702cc7f0-990c-0130-2068-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702cd6f0-990c-0130-2069-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702cd6f0-990c-0130-2069-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schwefel"@de .
+<http://boden-params.herokuapp.com/702cd6f0-990c-0130-2069-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulfur"@en .
+<http://boden-params.herokuapp.com/702cd6f0-990c-0130-2069-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "S"@de .
+<http://boden-params.herokuapp.com/702cd6f0-990c-0130-2069-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702ce5f0-990c-0130-206a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702ce5f0-990c-0130-206a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Schwermetallgehalte"@de .
+<http://boden-params.herokuapp.com/702ce5f0-990c-0130-206a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "heavy metal contents"@en .
+<http://boden-params.herokuapp.com/702ce5f0-990c-0130-206a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702cf430-990c-0130-206b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702cf430-990c-0130-206b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silicium"@de .
+<http://boden-params.herokuapp.com/702cf430-990c-0130-206b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silicon"@en .
+<http://boden-params.herokuapp.com/702cf430-990c-0130-206b-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Si"@de .
+<http://boden-params.herokuapp.com/702cf430-990c-0130-206b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d02e0-990c-0130-206c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d02e0-990c-0130-206c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silikat"@de .
+<http://boden-params.herokuapp.com/702d02e0-990c-0130-206c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Silicate"@en .
+<http://boden-params.herokuapp.com/702d02e0-990c-0130-206c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d10f0-990c-0130-206d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d10f0-990c-0130-206d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Stickstoff"@de .
+<http://boden-params.herokuapp.com/702d10f0-990c-0130-206d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nitrogen"@en .
+<http://boden-params.herokuapp.com/702d10f0-990c-0130-206d-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "N"@de .
+<http://boden-params.herokuapp.com/702d10f0-990c-0130-206d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d1fe0-990c-0130-206e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d1fe0-990c-0130-206e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strontium"@de .
+<http://boden-params.herokuapp.com/702d1fe0-990c-0130-206e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Strontium"@en .
+<http://boden-params.herokuapp.com/702d1fe0-990c-0130-206e-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Sr"@de .
+<http://boden-params.herokuapp.com/702d1fe0-990c-0130-206e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d2e70-990c-0130-206f-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d2e70-990c-0130-206f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulfat"@de .
+<http://boden-params.herokuapp.com/702d2e70-990c-0130-206f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Sulfate"@en .
+<http://boden-params.herokuapp.com/702d2e70-990c-0130-206f-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "SO4"@de .
+<http://boden-params.herokuapp.com/702d2e70-990c-0130-206f-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d3c90-990c-0130-2070-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d3c90-990c-0130-2070-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Titan"@de .
+<http://boden-params.herokuapp.com/702d3c90-990c-0130-2070-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Titanium"@en .
+<http://boden-params.herokuapp.com/702d3c90-990c-0130-2070-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Ti"@de .
+<http://boden-params.herokuapp.com/702d3c90-990c-0130-2070-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d66e0-990c-0130-2071-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d66e0-990c-0130-2071-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vanadium"@de .
+<http://boden-params.herokuapp.com/702d66e0-990c-0130-2071-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Vanadium"@en .
+<http://boden-params.herokuapp.com/702d66e0-990c-0130-2071-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "V"@de .
+<http://boden-params.herokuapp.com/702d66e0-990c-0130-2071-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d75b0-990c-0130-2072-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d75b0-990c-0130-2072-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasser"@de .
+<http://boden-params.herokuapp.com/702d75b0-990c-0130-2072-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "water"@en .
+<http://boden-params.herokuapp.com/702d75b0-990c-0130-2072-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "H2O"@de .
+<http://boden-params.herokuapp.com/702d75b0-990c-0130-2072-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d8450-990c-0130-2073-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d8450-990c-0130-2073-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Wasserstoff"@de .
+<http://boden-params.herokuapp.com/702d8450-990c-0130-2073-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Hydrogen"@en .
+<http://boden-params.herokuapp.com/702d8450-990c-0130-2073-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "H"@de .
+<http://boden-params.herokuapp.com/702d8450-990c-0130-2073-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/702d9340-990c-0130-2074-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/702d9340-990c-0130-2074-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zink"@de .
+<http://boden-params.herokuapp.com/702d9340-990c-0130-2074-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Zinc"@en .
+<http://boden-params.herokuapp.com/702d9340-990c-0130-2074-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Zn"@de .
+<http://boden-params.herokuapp.com/702d9340-990c-0130-2074-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-params.herokuapp.com/scheme> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenchemische Parameter (anorganisch)"@de .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/70297d40-990c-0130-2031-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/7029b9f0-990c-0130-2032-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/7029cd00-990c-0130-2033-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/7029dc90-990c-0130-2034-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/7029e9c0-990c-0130-2035-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/7029f6f0-990c-0130-2036-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a0420-990c-0130-2037-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a1210-990c-0130-2038-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a1fe0-990c-0130-2039-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a3000-990c-0130-203a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a3e40-990c-0130-203b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a4dc0-990c-0130-203c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a5b50-990c-0130-203d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a6880-990c-0130-203e-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a7580-990c-0130-203f-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a8280-990c-0130-2040-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a90f0-990c-0130-2041-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702a9ed0-990c-0130-2042-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702aad00-990c-0130-2043-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702abb00-990c-0130-2044-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702ac8b0-990c-0130-2045-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702ad7f0-990c-0130-2046-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702ae780-990c-0130-2047-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702af610-990c-0130-2048-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b0480-990c-0130-2049-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b1500-990c-0130-204a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b2370-990c-0130-204b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b31b0-990c-0130-204c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b4010-990c-0130-204d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b4df0-990c-0130-204e-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b5ca0-990c-0130-204f-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b6a90-990c-0130-2050-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b78c0-990c-0130-2051-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b87f0-990c-0130-2052-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702b96a0-990c-0130-2053-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702ba4d0-990c-0130-2054-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702bb3f0-990c-0130-2055-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702bc690-990c-0130-2056-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702bd500-990c-0130-2057-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702be3b0-990c-0130-2058-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702bf190-990c-0130-2059-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702bffa0-990c-0130-205a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c0df0-990c-0130-205b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c1d10-990c-0130-205c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c2c40-990c-0130-205d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c3bb0-990c-0130-205e-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c48c0-990c-0130-205f-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c55b0-990c-0130-2060-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c6340-990c-0130-2061-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c7040-990c-0130-2062-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c7d40-990c-0130-2063-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c8c10-990c-0130-2064-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702c9af0-990c-0130-2065-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702caa50-990c-0130-2066-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702cb9c0-990c-0130-2067-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702cc7f0-990c-0130-2068-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702cd6f0-990c-0130-2069-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702ce5f0-990c-0130-206a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702cf430-990c-0130-206b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d02e0-990c-0130-206c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d10f0-990c-0130-206d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d1fe0-990c-0130-206e-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d2e70-990c-0130-206f-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d3c90-990c-0130-2070-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d66e0-990c-0130-2071-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d75b0-990c-0130-2072-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d8450-990c-0130-2073-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenchemische-parameter-anorganisch> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/702d9340-990c-0130-2074-482a1437a069> .

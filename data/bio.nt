@@ -1,0 +1,70 @@
+<http://boden-params.herokuapp.com/5d3b4940-92f6-0130-fd25-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b4940-92f6-0130-fd25-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Collembolen"@de .
+<http://boden-params.herokuapp.com/5d3b4940-92f6-0130-fd25-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Springtails"@en .
+<http://boden-params.herokuapp.com/5d3b4940-92f6-0130-fd25-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Springschwänze"@de .
+<http://boden-params.herokuapp.com/5d3b4940-92f6-0130-fd25-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b5700-92f6-0130-fd26-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b5700-92f6-0130-fd26-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Anneliden"@de .
+<http://boden-params.herokuapp.com/5d3b5700-92f6-0130-fd26-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Earthworms"@en .
+<http://boden-params.herokuapp.com/5d3b5700-92f6-0130-fd26-482a1437a069> <http://www.w3.org/2004/02/skos/core#altLabel> "Ringelwürmer"@de .
+<http://boden-params.herokuapp.com/5d3b5700-92f6-0130-fd26-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b6010-92f6-0130-fd27-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b6010-92f6-0130-fd27-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenbakterien"@de .
+<http://boden-params.herokuapp.com/5d3b6010-92f6-0130-fd27-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil bacteria"@en .
+<http://boden-params.herokuapp.com/5d3b6010-92f6-0130-fd27-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b68b0-92f6-0130-fd28-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b68b0-92f6-0130-fd28-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenpilze"@de .
+<http://boden-params.herokuapp.com/5d3b68b0-92f6-0130-fd28-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "soil fungi"@en .
+<http://boden-params.herokuapp.com/5d3b68b0-92f6-0130-fd28-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b71c0-92f6-0130-fd29-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b71c0-92f6-0130-fd29-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikrobielle Aktivität"@de .
+<http://boden-params.herokuapp.com/5d3b71c0-92f6-0130-fd29-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "microbial activity"@en .
+<http://boden-params.herokuapp.com/5d3b71c0-92f6-0130-fd29-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b79d0-92f6-0130-fd2a-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b79d0-92f6-0130-fd2a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "mikrobielle Diversität"@de .
+<http://boden-params.herokuapp.com/5d3b79d0-92f6-0130-fd2a-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "microbial diversity"@en .
+<http://boden-params.herokuapp.com/5d3b79d0-92f6-0130-fd2a-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b82b0-92f6-0130-fd2b-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b82b0-92f6-0130-fd2b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nematoden"@de .
+<http://boden-params.herokuapp.com/5d3b82b0-92f6-0130-fd2b-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Nematodes"@en .
+<http://boden-params.herokuapp.com/5d3b82b0-92f6-0130-fd2b-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b8b00-92f6-0130-fd2c-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b8b00-92f6-0130-fd2c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Regenwurmaktivität"@de .
+<http://boden-params.herokuapp.com/5d3b8b00-92f6-0130-fd2c-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Earthworm activity"@en .
+<http://boden-params.herokuapp.com/5d3b8b00-92f6-0130-fd2c-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b9370-92f6-0130-fd2d-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b9370-92f6-0130-fd2d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Katalaseaktivität"@de .
+<http://boden-params.herokuapp.com/5d3b9370-92f6-0130-fd2d-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "catalase activity"@en .
+<http://boden-params.herokuapp.com/5d3b9370-92f6-0130-fd2d-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3b9ef0-92f6-0130-fd2e-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3b9ef0-92f6-0130-fd2e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Mineralisation"@de .
+<http://boden-params.herokuapp.com/5d3b9ef0-92f6-0130-fd2e-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "mineralisation"@en .
+<http://boden-params.herokuapp.com/5d3b9ef0-92f6-0130-fd2e-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3baa50-92f6-0130-fd2f-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3baa50-92f6-0130-fd2f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Streuabbau"@de .
+<http://boden-params.herokuapp.com/5d3baa50-92f6-0130-fd2f-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "litter decompostion"@en .
+<http://boden-params.herokuapp.com/5d3baa50-92f6-0130-fd2f-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3bb1e0-92f6-0130-fd30-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3bb1e0-92f6-0130-fd30-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Fauna"@de .
+<http://boden-params.herokuapp.com/5d3bb1e0-92f6-0130-fd30-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "fauna"@en .
+<http://boden-params.herokuapp.com/5d3bb1e0-92f6-0130-fd30-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/5d3bba70-92f6-0130-fd31-482a1437a069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/5d3bba70-92f6-0130-fd31-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "Protease-Aktivität"@de .
+<http://boden-params.herokuapp.com/5d3bba70-92f6-0130-fd31-482a1437a069> <http://www.w3.org/2004/02/skos/core#prefLabel> "protease-activity"@en .
+<http://boden-params.herokuapp.com/5d3bba70-92f6-0130-fd31-482a1437a069> <http://www.w3.org/2004/02/skos/core#broader> <http://boden-params.herokuapp.com/bodenbiologische-parameter> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2004/02/skos/core#Concept> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#topConceptOf> <http://boden-params.herokuapp.com/scheme> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#prefLabel> "Bodenbiologische Parameter"@de .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b4940-92f6-0130-fd25-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b5700-92f6-0130-fd26-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b6010-92f6-0130-fd27-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b68b0-92f6-0130-fd28-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b71c0-92f6-0130-fd29-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b79d0-92f6-0130-fd2a-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b82b0-92f6-0130-fd2b-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b8b00-92f6-0130-fd2c-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b9370-92f6-0130-fd2d-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3b9ef0-92f6-0130-fd2e-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3baa50-92f6-0130-fd2f-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3bb1e0-92f6-0130-fd30-482a1437a069> .
+<http://boden-params.herokuapp.com/bodenbiologische-parameter> <http://www.w3.org/2004/02/skos/core#narrower> <http://boden-params.herokuapp.com/5d3bba70-92f6-0130-fd31-482a1437a069> .
